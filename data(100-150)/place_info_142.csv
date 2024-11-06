@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+147062374,Hanbit Park,5.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.567715,126.984689,"28-9 Suha-dong, Jung-gu, Seoul",No Description
+142380340,Hannam Tennis Court,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.54567,127.003411,"726-181 Hannam-dong, Yongsan-gu, Seoul",No Description
+146951496,Daewon Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seongnam,,GCJ02,37.433563,127.150407,"182 Hadaewon-dong, Jungwon-gu, Seongnam-si, Gyeonggi-do, South Korea",No Description
+146824650,SH아트홀,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.579839,127.003633,"1-131 Dongsung-dong, Jongno-gu, Seoul",No Description
+149291116,Musical <thrill me>,0.0,https://ak-d.tripcdn.com/images/0106i12000g9qm94tC752.jpg,Seoul,"['Theater', 'Stage Drama']",GCJ02,37.582716,127.003248,"Yes24 Stage Hall 2, Seoul",No Description
+149291359,Musical [Bloody Love],0.0,https://ak-d.tripcdn.com/images/0103612000ga26hq70350.jpg,Seoul,"['Theater', 'Stage Drama']",GCJ02,37.485691,127.027806,"Kepco Art Center, Seoul, Korea",No Description
+137267976,Onam Lake Park,4.5,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/07/Cghzf1W7H_mAOouUAAA0-J5t66I153.jpg,Namyangju-si,['City Parks'],GCJ02,37.694016,127.224952,"산50-2 Onam-ri, Onam-eup, Namyangju-si, Gyeonggi-do, South Korea",No Description
+65179446,Heungryunsa Temple,0.0,https://ak-d.tripcdn.com/images/ww0o1f000001gpef5A024.png,Incheon,"['Historical Sites', 'Temples']",GCJ02,37.416159,126.659557,"806-12 Dongchun-dong, Yeonsu-gu, Incheon, South Korea",No Description
+142438864,Guji Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Bucheon-si,,GCJ02,37.492334,126.753496,"101 Sangil-ro, Bucheon-si, Gyeonggi-do, South Korea",No Description
+142942986,Lotte Cinema_AnsanGojan,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M02/AF/63/CghzfFW7IAaAPaqMAAA-wvU2dn8545.jpg,Ansan,['Cinemas'],GCJ02,37.308913,126.828945,"137 Gwangdeok-daero, Hosu-dong, Danwon-gu, Ansan-si, Gyeonggi-do",No Description

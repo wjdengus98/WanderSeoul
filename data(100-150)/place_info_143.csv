@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+61213558,Insubong,5.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M06/C5/07/Cghzf1W7H_mADCqVAAA3sUc-vEQ718.jpg,Seoul,"['Mountains', 'Nature Reserves']",GCJ02,37.660498,126.980122,"Seoul, South Korea",No Description
+146219072,Hannae Neighborhood Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.622669,127.069181,"Wolgye-dong, Nowon-gu, Seoul",No Description
+143764578,Incheon Namdong Central Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Incheon,,GCJ02,37.461932,126.7015,"Ganseok-dong, Namdong-gu, Incheon",No Description
+65179420,Tomb of King Gongyang,0.0,https://ak-d.tripcdn.com/images/0106n12000a4p8s4o48C3.png,Goyang-si,['Historical Sites'],GCJ02,37.68003,126.838957,"65-1, Wontang-dong, Deyang-gu, Goyang-si, Gyeonggi-do",No Description
+141888634,Snow Sledding,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.545794,127.081267,"441 Gwangnaru-ro, Gwangjin-gu, Seoul, South Korea",No Description
+146931779,Federation of Korean Industries(FKI) Convention Center,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.52219,126.920256,"24 Yeoui-daero, Yeongdeungpo-gu, Seoul",No Description
+142764336,CGV스퀘어,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M02/AF/63/CghzfFW7IAaAPaqMAAA-wvU2dn8545.jpg,Seongnam,['Cinemas'],GCJ02,37.340833,127.106667,"159 Gumi-dong, Bundang-gu, Seongnam-si, Gyeonggi-do",No Description
+142390251,MEGA BOX Paju,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M02/AF/63/CghzfFW7IAaAPaqMAAA-wvU2dn8545.jpg,Paju-si,['Cinemas'],GCJ02,37.764899,126.774586,"328 중앙로 Paju-si, Gyeonggi-do",No Description
+147603603,Bonelli Garden,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.455735,127.071088,"11 Saemmaru-gil, Naegok-dong, Seocho-gu, Seoul, South Korea",No Description
+142877452,Hall of Ansan Culture and Arts,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M0B/AE/87/CghzfVW7IAaAJGP4AAA0UwxYU3A867.jpg,Ansan,['Theater'],GCJ02,37.318843,126.82286,"312 Hwarang-ro, Gojan-dong, Ansan-si, Gyeonggi-do",No Description

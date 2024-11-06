@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+136690448,One Tree Hill,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.522661,127.120299,"424 Olympic-ro, Songpa-gu, Seoul, South Korea",No Description
+144005610,Phil's Computer Repository,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.532953,126.965414,"3층 242호, 16-1 선인상가 21동, Hangangno 2(i)-ga, Yongsan-gu, Seoul, South Korea",No Description
+141580499,KU Cinema,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.54289,127.07307,"120 Neungdong-ro, Gwangjin-gu, Seoul",No Description
+81736029,Color Pool Museum,5.0,https://ak-d.tripcdn.com/images/0104v12000bbdjemn1A11.jpg,Seoul,['Exhibition Halls'],GCJ02,37.574594,126.983693,"49 Insadong 8-gil, Gwanhun-dong, Jongno-gu, Seoul, South Korea",No Description
+144872069,제니스 스포츠클럽 골프연습장,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.504674,126.870261,"60-34 Gocheok-dong, Guro-gu, Seoul, South Korea",No Description
+39571220,Praum the Musical Instrument Museum,5.0,https://ak-d.tripcdn.com/images/0ww0e120008y7ob02B86E.jpg,Namyangju-si,['Museums'],GCJ02,37.568295,127.227356,"756 Gyeonggang-ro, Wabu-eup, Namyangju-si, Gyeonggi-do, South Korea",No Description
+142593292,Megabox,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M02/AF/63/CghzfFW7IAaAPaqMAAA-wvU2dn8545.jpg,Namyangju-si,['Cinemas'],GCJ02,37.655055,127.244091,"26 Neureul 2-ro, Namyangju-si, Gyeonggi-do, South Korea",No Description
+38695674,Donggureung,3.0,https://ak-d.tripcdn.com/images/ww091f000001gq6gk1BEE.png,Guri-si,"['Historical Sites', 'Cemeteries']",GCJ02,37.620114,127.127981,"197 Donggureung-ro, Guri-si, Gyeonggi-do",No Description
+147307645,Blackpink house,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.551473,126.922019,"364-14 Seogyo-dong, Mapo-gu, Seoul",No Description
+136785651,Statue of Jeon Tae Il,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M01/AE/89/CghzfVW7IBWAW5SfAAA11ZoqX08108.jpg,Seoul,['Statues/Sculptures'],GCJ02,37.569646,127.006606,"Jongno 5(o)-ga, Jongno-gu, Seoul, South Korea",No Description

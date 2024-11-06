@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+147455685,CJ인재원 그랜드홀,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.559,126.995229,"102-1 Pildong 2(i)-ga, Jung-gu, Seoul",No Description
+147683059,Mary Hall,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.551335,126.940737,"35 Baekbeom-ro, Mapo-gu, Seoul, South Korea",No Description
+61999187,Pan Korea Bowling Center,0.0,https://ak-d.tripcdn.com/images/100t0f0000007gxvq9397.jpg,Seoul,['Bowling Alleys'],GCJ02,37.530763,127.120158,"504-2, Pungnap 2-dong, Songpa-gu, Seoul, South Korea",No Description
+146298597,Heaven Shop 3 game Beomgye,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Anyang,,GCJ02,37.390477,126.95214,"South Korea, Gyeonggi-do, Anyang-si, Dongan-gu, Pyeongchon-daero 223beon-gil, 64 지하1층",No Description
+39789893,Naksunjae,5.0,https://ak-d.tripcdn.com/images/0105w12000a5fswpqA65D.jpg,Seoul,['Historical Sites'],GCJ02,37.578694,126.993459,"Inside Changdeokgung Palace, 99 Ligu Road, Jongno-gu",No Description
+137385107,Sajikdan,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M08/FC/24/CghzflW7IACAHgzUAAAvGcMqieg905.jpg,Seoul,['Historical Sites'],GCJ02,37.575583,126.967691,"1-28 사직동 Jongno-gu, Seoul, South Korea",No Description
+142924159,Jamwon Hangang Park - Parking Area 1,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.528712,127.020544,"386 Apgujeong-dong, Seoul",No Description
+55822986,Paldang Observation Platform,4.3,https://ak-d.tripcdn.com/images/0ww0k12000cozahar1C55.jpg,Gwangju,"['Planetariums', 'Observation Decks']",GCJ02,37.499532,127.302998,"1692. Sansu-ro, Namjong-myeon, Gwangju, Gyeonggi-do 12708 South Korea",No Description
+133527339,Inwangsa,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M03/FC/25/CghzflW7IAuAQo9CAAA7OIqXlVA798.jpg,Seoul,"['Other Places of Worship', 'Temples']",GCJ02,37.578647,126.95977,"26, Tongil-ro 18ga-gil, Jongno-gu, Seoul 03023 South Korea",No Description
+144691602,HYBE INSIGHT,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.524563,126.964188,"42 Hangang-daero, Yongsan-gu, Seoul, South Korea",No Description

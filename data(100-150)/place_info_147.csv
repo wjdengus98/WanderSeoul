@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+144084077,Seoul International Catholic Church,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.536537,127.006191,"90 Hannam-daero, Yongsan-gu, Seoul",No Description
+133525334,Moon Observatory,0.0,https://ak-d.tripcdn.com/images/0ww5a12000cduqnocFEAB.jpg,Ansan,"['Planetariums', 'Observation Decks']",GCJ02,37.312802,126.60922,"South Korea, Gyeonggi-do, Ansan-si, Danwon-gu, Daebu-dong, 대부황금로 1927",No Description
+65176605,Ansan Wa~ Stadium,4.0,https://ak-d.tripcdn.com/images/0ww2m120008y7onm447B4.jpg,Ansan,['Stadiums'],GCJ02,37.31969,126.818779,"260 Hwarang-ro, Choji-dong, Danwon-gu, Ansan-si, Gyeonggi-do, South Korea",No Description
+147426220,SUPIA Yeouido Outdoor Swimming Pool,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.533453,126.920527,"82-3 Yeouido-dong, Yeongdeungpo-gu, Seoul, South Korea",No Description
+146517711,Uiwang Soccer Stadium,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Uiwang-si,,GCJ02,37.388275,126.988317,"155-2 Poil-dong, Uiwang-si, Gyeonggi-do",No Description
+137172486,Han river ichon skate park,5.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/07/Cghzf1W7H_mAOouUAAA0-J5t66I153.jpg,Seoul,['City Parks'],GCJ02,37.519351,126.966194,"370-2 Ichon-dong, Yongsan-gu, Seoul, South Korea",No Description
+146517611,Room Escape Cafe X-Cape,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.542525,127.064354,"112 Dongil-ro, 화양동 Gwangjin-gu, Seoul",No Description
+146795231,Seunggabong Peak,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.629029,126.963031,"Gugi-dong, Jongno-gu, Seoul",No Description
+147238577,National Theater Company of Korea,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.552979,126.967967,"373 Cheongpa-ro, Yongsan-gu, Seoul",No Description
+65179366,Bucheon Gymnasium,0.0,https://ak-d.tripcdn.com/images/0104o12000a4lmyke6CE9.png,Bucheon-si,['Stadiums'],GCJ02,37.513369,126.763205,"1024, Jung-dong, Bucheon-si, Gyeonggi-do",No Description

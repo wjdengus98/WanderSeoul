@@ -1,0 +1,9 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+142907369,Garosugil,5.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.517927,127.023367,"Dosan-daero, Gangnam-gu, Seoul, South Korea",No Description
+138074064,JCC Arts Center Concert Hall,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M08/AE/87/CghzfVW7IAOAbNKNAABCrs7mUrY425.jpg,Seoul,['Museums'],GCJ02,37.587278,127.002026,"South Korea, Seoul, Jongno-gu, Changgyeonggung-ro 35-gil, 29",No Description
+142351054,Seocho-gu Yangjae Library,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M01/AF/63/CghzfFW7IASAT10JAAA6hcRCmrA034.jpg,Seoul,['Libraries'],GCJ02,37.473661,127.033541,"33 Yangjaecheon-ro, Seocho-gu, Seoul, South Korea",No Description
+133524628,Hwaseomun Gate,5.0,https://ak-d.tripcdn.com/images/0ww2n12000adtoj1a4469.jpg,Suwon,['Historical Sites'],GCJ02,37.285556,127.009664,"334 Jangan-dong, Paldal-gu, Suwon, Gyeonggi-do, South Korea",No Description
+95997535,Sangdo Neighborhood Park,5.0,https://ak-d.tripcdn.com/images/01057120009bg52nu8467.png,Seoul,['City Parks'],GCJ02,37.493583,126.937143,"Sangdo-dong, Dongjak-gu, Seoul",No Description
+65178461,Gangseo Hangang Park,5.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M03/AF/62/CghzfFW7H_eAflbUAABFocp0nk0151.jpg,Seoul,['Theme Parks'],GCJ02,37.588085,126.815235,"276-1, Huahwa-dong, Gangseo-gu, Seoul",No Description
+146933890,Haneul Theater,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.55287,127.000131,"59 Jangchungdan-ro, Jung-gu, Seoul, South Korea",No Description
+147455839,Megabox Yangju,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Yangju,,GCJ02,37.796009,127.080397,"6-6 Goeumnam-ro, Yangju-si, Gyeonggi-do",No Description

@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+147357095,Geumnarae Art Hall,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.456498,126.895791,"70 Siheung-daero 73-gil, Siheung-dong, Geumcheon-gu, Seoul, South Korea",No Description
+138888373,Songpa Book Museum,0.0,https://ak-d.tripcdn.com/images/1me0x224x8u9ns9k0BE35.jpg,Seoul,['Museums'],GCJ02,37.498906,127.104477,"77 Songpa-daero 37-gil, 석촌동 Songpa-gu, Seoul, South Korea",No Description
+146777445,SBS노래방,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.500592,127.025355,Seoul,No Description
+147583810,Ojeong Art Hall,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Bucheon-si,,GCJ02,37.527703,126.796572,"129 Ojeong-dong, 오정구 Bucheon-si, Gyeonggi-do, South Korea",No Description
+142487262,Karak-kongwon,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.497351,127.124485,"37 Garak-dong, Songpa-gu, Seoul, South Korea",No Description
+143782158,Cactus Exhibition,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Goyang-si,,GCJ02,37.65752,126.76141,"595 Hosu-ro, Janghang-dong, Ilsandong-gu, Goyang-si, Gyeonggi-do, South Korea",No Description
+95997559,Saeuch'on-gongwon,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/07/Cghzf1W7H_mAOouUAAA0-J5t66I153.jpg,Seoul,['City Parks'],GCJ02,37.479851,126.988249,"Bangbae-dong, Seocho-gu, Seoul",No Description
+147455703,The Climb,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.485139,127.035858,"South Korea, Seoul, Gangnam-gu, Nambusunhwan-ro, 2615 지하 1층",No Description
+142554765,MEGA BOX Paju Book City,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M02/AF/63/CghzfFW7IAaAPaqMAAA-wvU2dn8545.jpg,Paju-si,['Cinemas'],GCJ02,37.713734,126.687744,"220 Munbal-ro, Gyoha-dong, Paju-si, Gyeonggi-do",No Description
+147615452,SHILLA Esthetic,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.561748,126.98796,"52 Myeongdong 8ga-gil, Jung-gu, Seoul",No Description

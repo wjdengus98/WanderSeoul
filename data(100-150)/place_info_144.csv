@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+138718965,Hyundai Museum of Children's Books,4.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M08/AE/87/CghzfVW7IAOAbNKNAABCrs7mUrY425.jpg,Seongnam,['Museums'],GCJ02,37.393292,127.111642,"146번길 20 Pangyoyeok-ro, 분당구 Gyeonggi-do, South Korea",No Description
+143784135,관악제2구민운동장,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.458103,126.933644,"Sillim-dong, Gwanak-gu, Seoul, South Korea",No Description
+61999057,House of Go Hui-Dong,4.0,https://ak-d.tripcdn.com/images/0ww4j120009546o8iEA3C.jpg,Seoul,"['Famous Residences', 'Museums']",GCJ02,37.583177,126.988963,"40 Changdeokgung 5 - gil, Jongno-gu, Seoul 03051, South Korea",No Description
+142811462,Noryangjin Neighborhood Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.508319,126.954112,"Bon-dong, Dongjak-gu, Seoul",No Description
+146328509,Neulbeot Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.48949,127.057075,"501 Daechi-dong, Gangnam-gu, Seoul",No Description
+146198910,Poeun Art Hall,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Yongin-si,,GCJ02,37.325663,127.104695,"Yongin-si, South Korea",No Description
+146744619,Banwol Lake Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Gunpo-si,,GCJ02,37.323603,126.888536,"458-2 Dundae-dong, Gunpo-si, Gyeonggi-do, South Korea",No Description
+148470868,Porter Robinson SMILE! :D World Tour,0.0,https://ak-d.tripcdn.com/images/0100b12000dx0f3qu020A.jpg,Seoul,['Concerts'],GCJ02,37.566,126.9784,"Myunghwa Live Hall  , Seoul",No Description
+147357077,Anyangsa,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Anyang,,GCJ02,37.422428,126.92407,"103 Yesulgongwon-ro 131beon-gil, Manan-gu, Anyang-si, Gyeonggi-do, South Korea",No Description
+95997635,Gulsaem Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/07/Cghzf1W7H_mAOouUAAA0-J5t66I153.jpg,Seoul,['City Parks'],GCJ02,37.478782,127.121855,"Munjeong-dong, Songpa-gu, Seoul",No Description

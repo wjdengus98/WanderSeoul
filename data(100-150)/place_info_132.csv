@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+144081985,관악산공원 야외식물원,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.461048,126.948235,"205-5 Daehak-dong, Gwanak-gu, Seoul, South Korea",No Description
+138323325,Bojeong-dong Cafe Street,5.0,https://ak-d.tripcdn.com/images/1mi4c2215g7juokpt9D02.jpg,Yongin-si,,GCJ02,37.3216,127.110103,"12 Jukjeon-ro 15beon-gil, 보정동 Giheung-gu, Yongin-si, Gyeonggi-do, South Korea",No Description
+65177592,Choi Soon-woo's old house,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M08/FC/24/CghzflW7IACAHgzUAAAvGcMqieg905.jpg,Seoul,"['Museums', 'Historical Sites']",GCJ02,37.592895,127.000328,"126-20, Seongbuk-dong, Seongbuk-gu, Seoul",No Description
+146460343,Cheong Wa Dae Official Residence,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.587042,126.977019,"1 Sejongno, Jongno-gu, Seoul, South Korea",No Description
+138364518,Samchung Train Museum,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M08/AE/87/CghzfVW7IAOAbNKNAABCrs7mUrY425.jpg,Seoul,['Museums'],GCJ02,37.58693,126.98212,"147 Bukchon-ro, Jongno-gu, Seoul, South Korea",No Description
+144082322,Heukseok-dong Catholic Church,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.508816,126.96038,"3 Heukseok-ro 13-gil, Dongjak-gu, Seoul",No Description
+148812334,Guksabong Gymnasium,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.491624,126.941729,"Bongcheon-dong, Gwanak-gu, Seoul",No Description
+142728457,Oksu-dong Catholic Church,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/AE/62/CghzgFW7IBCAHuSzAAAx3FcjVOM139.jpg,Seoul,['Churches and Cathedrals'],GCJ02,37.543639,127.013834,"207 Dokseodang-ro, Oksu-dong, Seongdong-gu, Seoul",No Description
+146300936,Myeongdong Massage Hikari,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.561547,126.984031,"Seoul, Jung-gu, Myeongdong 8na-gil, 18 5층",No Description
+148891081,Hiatus Kaiyote LOVE HEART CHEAT CODE Tour In Seoul,0.0,https://ak-d.tripcdn.com/images/0101512000dx1fhyp0949.jpg,Seoul,['Concerts'],GCJ02,37.5556,127.111413,"20, Gucheonmyeon-ro , Gwangjin-gu, Seoul",No Description

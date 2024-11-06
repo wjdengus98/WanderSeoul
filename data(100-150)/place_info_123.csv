@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+143828505,Bulgwangsa,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.623305,126.936583,"25-1 Bulgwang-dong, Eunpyeong-gu, Seoul",No Description
+146795031,Anyang Gymnasium,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Anyang,,GCJ02,37.405022,126.948433,"1023 Bisan-dong, Dongan-gu, Anyang-si, Gyeonggi-do",No Description
+142292235,Peace Culture Bunker,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M09/FC/25/CghzflW7IAeADdclAAAt3hpaYTA318.jpg,Seoul,['Military Sites'],GCJ02,37.690766,127.047194,"6-5 Dobong-dong, Dobong-gu, Seoul",No Description
+144731401,Haneul Park Metasequoia Trail,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.565282,126.883372,서울특별시 마포구 상암동 487-94,No Description
+144751483,Megabox,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Paju-si,,GCJ02,37.705895,126.758817,"991 Gyeongui-ro, 운정3동 Paju-si, Gyeonggi-do",No Description
+61996013,Uri Land Sauna,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M0B/AE/60/CghzgFW7H_-AP-y1AAAqT8fFgY0794.jpg,Seoul,['Spas'],GCJ02,37.616712,127.055887,"189 Jangwi-ro, Jangwi-dong, Seongbuk-gu, Seoul, South Korea",No Description
+146458044,Wow Mountain Badminton Courts,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.552031,126.929794,"산2-26 Changjeon-dong, Mapo-gu, Seoul",No Description
+147030793,Jangheung drive-in movie,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Yangju,,GCJ02,37.724605,126.950122,"120 Gwonyul-ro, Jangheung-myeon, Yangju-si, Gyeonggi-do, South Korea",No Description
+133527325,Hullyeonwon Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/07/Cghzf1W7H_mAOouUAAA0-J5t66I153.jpg,Seoul,['City Parks'],GCJ02,37.567341,127.003773,"227, Eulji-ro, Jung-gu Eulji-ro-5-ga, Seoul 04562 South Korea",No Description
+95997397,Janggunbong Neighborhood Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/07/Cghzf1W7H_mAOouUAAA0-J5t66I153.jpg,Seoul,['City Parks'],GCJ02,37.479934,126.936448,"San 149-8, Bongcheon-dong, Gwanak-gu, Seoul",No Description

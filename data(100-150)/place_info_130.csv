@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+136726472,Paldang Tourist Site,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Namyangju-si,,GCJ02,37.540432,127.25411,"Paldang-ri, Wabu-eup, Namyangju-si, Gyeonggi-do, South Korea",No Description
+142905458,Space K SEOUL,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.561214,126.830855,"32 Magokjungang 8-ro, Gangseo-gu, Seoul",No Description
+144931263,WORLD DJ FESTIVAL,0.0,https://ak-d.tripcdn.com/images/0102c12000ddc7hoiA483.png,Gwacheon,['Music Festivals'],GCJ02,37.434156,127.020127,"Seoul Land 181 Gwangmyeong-ro, Gwacheon-si, Gyeonggi-do,Korea",No Description
+144084750,Chungwoon Church,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.495626,127.045189,"6 Eonju-ro 65-gil, Gangnam-gu, Seoul",No Description
+141726471,Hanatour V-Hall,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.554387,126.921952,"25 Hongik-ro, Mapo-gu, Seoul, South Korea",No Description
+147010810,Bongsan Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.601779,126.901782,"Sinsa-dong, Eunpyeong District, Seoul",No Description
+62052700,Sammaksa Valley,5.0,https://ak-d.tripcdn.com/images/0ww281200094abcl055F1.jpg,Anyang,"['Hiking', 'Canyons']",GCJ02,37.434753,126.922953,"Seoksu-dong, Manan-gu, Anyang-si, Gyeonggi-do",No Description
+61998004,Koyo-gongwon,0.0,https://ak-d.tripcdn.com/images/0103412000bn21ztiDEDB.jpg,Seoul,['City Parks'],GCJ02,37.496857,127.141715,"Geoyeo-dong, Songpa-gu, Seoul",No Description
+95997625,Mach'on-gongwon,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/07/Cghzf1W7H_mAOouUAAA0-J5t66I153.jpg,Seoul,['City Parks'],GCJ02,37.501658,127.145769,"11 Macheon-dong, Songpa-gu, Seoul, South Korea",No Description
+61995991,Namdaemun Underground Shopping Center,4.5,https://ak-d.tripcdn.com/images/fd/tg/g2/M04/C5/08/Cghzf1W7IAuAf_KnAAA64Rrw844266.jpg,Seoul,['Featured Neighborhoods'],GCJ02,37.560837,126.977067,"Namdaemunno 4(sa)-ga, Jung-gu, Seoul, South Korea",No Description

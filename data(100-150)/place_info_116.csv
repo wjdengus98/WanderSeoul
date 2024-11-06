@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+136766030,Ilyeong Tourist Site,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Yangju,,GCJ02,37.695879,126.934664,"South Korea, 경기도 양주시 장흥면 유원지로 406-31",No Description
+146477843,동궁스파24시사우나,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Goyang-si,,GCJ02,37.646879,126.781708,"1351 Baekseok-dong, Ilsandong-gu, Goyang-si, Gyeonggi-do, South Korea",No Description
+137057195,Chusa Museum,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M08/AE/87/CghzfVW7IAOAbNKNAABCrs7mUrY425.jpg,Gwacheon,['Museums'],GCJ02,37.452883,127.028588,"78 Chusa-ro, Gwacheon-si, Gyeonggi-do, South Korea",No Description
+146298564,Vinyl Bar Woodstock Shinrim,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.48297,126.928375,"Seoul, Gwanak-gu, Sillim-ro 59-gil, 24 지하 1층",No Description
+147179074,Amsa-Dong Archeological Site,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.558978,127.131034,"137-2 암사제3동 Gangdong-gu, Seoul, South Korea",No Description
+146378359,Uiwang Rail Bike,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Uiwang-si,,GCJ02,37.309663,126.950766,"221 Wangsongmotdong-ro, Uiwang-si, Gyeonggi-do",No Description
+142429101,Megabox Geomdan,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M02/AF/63/CghzfFW7IAaAPaqMAAA-wvU2dn8545.jpg,Incheon,['Cinemas'],GCJ02,37.588068,126.675426,"1098-5 Dangha-dong, Seo-gu, Incheon, South Korea",No Description
+144003647,KT Gwanghwamun Building West,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.572138,126.977845,"178 Sejong-daero, Sejongno, Jongno-gu, Seoul",No Description
+136883509,Jeongdong Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/07/Cghzf1W7H_mAOouUAAA0-J5t66I153.jpg,Seoul,"['City Parks', 'Nighttime sightseeing']",GCJ02,37.567628,126.971499,"21-18 정동길 Jeong-dong, Jung-gu, Seoul, South Korea",No Description
+141199735,Larva Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M09/AE/60/CghzgFW7H_qAfXrjAAAw66zmCm4580.jpg,Anyang,['Amusement Parks'],GCJ02,37.378273,126.975069,"Uiwang-si, South Korea",No Description

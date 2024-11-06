@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+146368375,Walkerhill Riverpark,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.555778,127.111513,"177 Walkerhill-ro, Gwangjin-gu, Seoul",No Description
+144872125,New Seoul Country Club,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Gwangju,,GCJ02,37.423744,127.209523,"95 Samjigok-gil, Sam-dong, Gwangju-si, Gyeonggi-do, South Korea",No Description
+144872148,Salt Bay Golf Club,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Siheung-si,,GCJ02,37.3913,126.770585,"987 Mayu-ro, Janggok-dong, Siheung-si, Gyeonggi-do, South Korea",No Description
+142820860,Jangchung Tennis Court,0.0,https://ak-d.tripcdn.com/images/0105r12000epv18ff6976.jpg,Seoul,,GCJ02,37.554167,127.001944,"14-21 Jangchung-dong 2(i)-ga, Jung-gu, Seoul",No Description
+65178465,Museum of Japanese Colonial History in Korea,0.0,https://ak-d.tripcdn.com/images/0102u12000c90ylnn75AE.jpg,Seoul,['Museums'],GCJ02,37.545742,126.966827,"42-8, Cheongpo-dong 2nd Street, Yongsan-gu, Seoul",No Description
+146497831,Gain Bowling Center,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.513653,127.065444,"164 Samseong-dong, Gangnam-gu, Seoul, South Korea",No Description
+146564615,Chungsuk Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.640833,127.076874,"Hagye-dong, Nowon-gu, Seoul, South Korea",No Description
+146795241,Marine Sports Center,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.639391,127.075406,"145 Hangeulbiseok-ro, Hagye-dong, Nowon-gu, Seoul",No Description
+22846481,Kim Chong Yung Museum,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/08/Cghzf1W7IAOADod_AAA1Xhhuy-U142.jpg,Seoul,['Art Museums'],GCJ02,37.613029,126.977523,"30 Pyeongchang 32-gil, Pyeongchang-dong, Jongno-gu, Seoul, South Korea",No Description
+61996147,Y'Z Park - Hongdae,4.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/07/Cghzf1W7H_mAOouUAAA0-J5t66I153.jpg,Seoul,['City Parks'],GCJ02,37.55721,126.924972,"176, Yanghwa-ro, Mapo-gu, Seoul 04051, South Korea",No Description

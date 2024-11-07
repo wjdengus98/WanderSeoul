@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+144083606,안산25시광장,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Ansan,,GCJ02,37.312074,126.830048,"157 Gwangdeok-daero, Danwon-gu, Ansan-si, Gyeonggi-do",No Description
+139700260,Acorn Caricature,0.0,https://ak-d.tripcdn.com/images/1me5512000f1ommc9DB94.jpg,Seoul,['Popular Spots'],GCJ02,37.56138,126.925539,"382-29 연남동 Mapo-gu, Seoul, South Korea",No Description
+146755267,Seokwangsa Temple,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Bucheon-si,,GCJ02,37.491041,126.793684,"367 Sosa-ro, Bucheon-si, Gyeonggi-do, South Korea",No Description
+38610053,Geolleung,4.8,https://ak-d.tripcdn.com/images/ww0n1e000001fhpyuD62C.jpg,Hwaseong-si,['Historical Sites'],GCJ02,37.207842,126.988971,"Hwaseong, Gyeonggi-do, South Korea","Georgeung is the mausoleum of King Jeongjo and his queen. The mausoleum is part of the royal tombs of the Joseon Dynasty, a UNESCO World Heritage Site."
+61999045,Popcond Square,0.0,https://ak-d.tripcdn.com/images/0ww0d120009c8mpyw3075.jpg,Seoul,"['Amusement Parks', 'City Halls']",GCJ02,37.528707,126.963219,"Hang-dang-dae-ro, 23-gil, 55 Yongsan-gu | Hyundai i-Park Mall-6 Story, Seoul 04377, South Korea",No Description
+146854258,Seongmi Mountain Gym,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.562327,126.911968,"Seoul, South Korea",No Description
+22847477,Total Art Museum,4.8,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/25/CghzflW7IA-AKV6TAABByEo2c7Y435.jpg,Seoul,['Fine Art Galleries'],GCJ02,37.612223,126.975675,"465-16 Pyeongchang-dong, Jongno-gu, Seoul",No Description
+144931242,ULTRA KOREA,0.0,https://ak-d.tripcdn.com/images/0105i12000e824w4qB391.jpg,Incheon,['Music Festivals'],GCJ02,37.437023,126.45592,"Paradise City Incheon, Korea",No Description
+95997645,Songpa Neighborhood Park,4.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/07/Cghzf1W7H_mAOouUAAA0-J5t66I153.jpg,Seoul,['City Parks'],GCJ02,37.506156,127.109764,"Songpa-dong, Songpa-gu, Seoul, South Korea",No Description
+143822364,Geumgang-Am,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.688215,127.027128,"517-15 Dobong-dong, Dobong-gu, Seoul",No Description

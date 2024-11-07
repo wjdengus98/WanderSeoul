@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+142564305,Doksan Library,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M01/AF/63/CghzfFW7IASAT10JAAA6hcRCmrA034.jpg,Seoul,['Libraries'],GCJ02,37.467518,126.908063,"114 Doksan-ro 54-gil, Doksan-dong, Geumcheon-gu, Seoul, South Korea",No Description
+136864125,Gwangokji Pond,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M08/FC/24/CghzflW7IACAHgzUAAAvGcMqieg905.jpg,Siheung-si,['Historical Sites'],GCJ02,37.402333,126.804499,"208 Hajung-dong, Siheung-si, Gyeonggi-do, South Korea",No Description
+147673141,Jongno 3 stalls alley,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.56966,126.989452,"종로1.2.3.4가동 Jongno-gu, Seoul",No Description
+146846460,National BaekSeongHee JangMinHo Theater,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.552979,126.967967,"373 Cheongpa-ro, Yongsan-gu, Seoul",No Description
+136766032,벽운계곡,0.0,https://ak-d.tripcdn.com/images/0104s12000f789vqo3387.png,Seoul,['City Parks'],GCJ02,37.683111,127.063116,대한민국 서울특별시 노원구 상계1동 1248,No Description
+147514787,W Monkey Bowling Center,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.567462,127.008055,"253 Jangchungdan-ro, Gwanghui-dong, Jung-gu, Seoul, South Korea",No Description
+56054638,Piano Falls,0.0,https://ak-d.tripcdn.com/images/ww0a1e000001ezzdaE5B1.png,Namyangju-si,['Waterfalls'],GCJ02,37.630196,127.347489,"562 Pokpo-ro, Hwado-eup, Namyangju-si, Gyeonggi-do, South Korea",No Description
+147603771,Joinfolia,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Paju-si,,GCJ02,37.779955,126.801599,"South Korea, Gyeonggi-do, Paju-si, Wollong-myeon, Hwangsobawi-gil, 304 KR",No Description
+62065036,Deokpyeong Eco-Service Area,5.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/07/Cghzf1W7H_mAOouUAAA0-J5t66I153.jpg,Icheon,['City Parks'],GCJ02,37.241276,127.390189,"287-76, Deogi-ro 154beon-gil, Majang-myeon, Icheon, Gyeonggi-do 17384, South Korea",No Description
+137195820,Namsan Beacon Mound,0.0,https://ak-d.tripcdn.com/images/0104t12000eo3c6vg0FC2.jpg,Seoul,['Historical Sites'],GCJ02,37.552009,126.987476,"8-1 Yejang-dong, Jung-gu, Seoul, South Korea",No Description

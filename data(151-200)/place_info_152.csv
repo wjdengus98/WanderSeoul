@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+141525359,Sanseong Indoor Badminton Courts,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seongnam,,GCJ02,37.460506,127.155594,"Seongnam-si, South Korea",No Description
+136944515,Cheonggyecheon Berlin Square,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/07/Cghzf1W7H_mAOouUAAA0-J5t66I153.jpg,Seoul,['City Parks'],GCJ02,37.567689,126.986992,"86 Cheonggyecheon-ro, Janggyo-dong, Jung-gu, Seoul, South Korea",No Description
+142438887,Samgakji Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.534455,126.97536,"Yongsan-dong 3(sam)-ga, Yongsan-gu, Seoul",No Description
+147141519,Yeonpung Gate,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.583926,126.976622,"Sejongno, Jongno-gu, Seoul",No Description
+146477919,수원SK아트리움,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Suwon,,GCJ02,37.309587,126.986486,"24-25 Imok-ro, Jangan-gu, Suwon-si, Gyeonggi-do",No Description
+142811470,Gocheok Public Library,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M01/AF/63/CghzfFW7IASAT10JAAA6hcRCmrA034.jpg,Seoul,['Libraries'],GCJ02,37.505365,126.853141,"31 Gocheok-ro 45-gil, Guro-gu, Seoul, South Korea",No Description
+142697962,Gimpo Hangang Lake Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/07/Cghzf1W7H_mAOouUAAA0-J5t66I153.jpg,Gimpo-si,['City Parks'],GCJ02,37.646241,126.636238,"617-2 마산동 Gimpo-si, Gyeonggi-do",No Description
+144083420,천주교 대방동 성당,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.505208,126.920866,"7 Gamasan-ro 89-gil, Yeongdeungpo-gu, Seoul, South Korea",No Description
+62046508,Sihwa Seawall,5.0,https://ak-d.tripcdn.com/images/0ww5b12000948vtrg65C9.jpg,Ansan,['Lakes'],GCJ02,37.311284,126.608228,"Daebudong-dong, Danwon-gu, Ansan-si, Gyeonggi-do, South Korea",No Description
+144872121,인천국제컨트리클럽,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Incheon,,GCJ02,37.561863,126.653585,"37 Doyoji-ro, Seo-gu, Incheon, South Korea",No Description

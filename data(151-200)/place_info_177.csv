@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+147534571,SEOIL Sports Center,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.498534,127.021848,"2 Seoun-ro 21-gil, 서초4동 Seocho-gu, Seoul",No Description
+95997508,Dapsimni Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/07/Cghzf1W7H_mAOouUAAA0-J5t66I153.jpg,Seoul,['City Parks'],GCJ02,37.574397,127.063405,"Dapsimni-dong, Dongdaemun-gu, Seoul, South Korea",No Description
+144004121,사보이 바(Savoy Bar),0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.476179,126.974927,"1056-1 Namhyeon-dong, Gwanak-gu, Seoul",No Description
+147455901,Bukhansan Monument,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.625113,126.956207,"산3-35 Gugi-dong, Jongno-gu, Seoul, South Korea",No Description
+50637465,Art Center Nabi,4.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M07/AE/87/CghzfVW7IAKAfIzRAAA4EyMoNfQ126.jpg,Seoul,['Art Galleries'],GCJ02,37.569756,126.980276,"26 Jong-ro, Seorin-dong, Jongno-gu, Seoul, South Korea",No Description
+142623780,Seorigol Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.497293,127.007724,"Banpo-dong, Seoul",No Description
+95997447,Sindorim Techno Neighborhood Park,4.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/07/Cghzf1W7H_mAOouUAAA0-J5t66I153.jpg,Seoul,['City Parks'],GCJ02,37.508171,126.891133,"Guro-dong, Guro-gu, Seoul",No Description
+146338497,CGV Incheon Dohwa,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Incheon,,GCJ02,37.470048,126.665159,"12 Sukgol-ro 88beon-gil, Michuhol-gu, Incheon",No Description
+142886726,Seokcheon Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Bucheon-si,,GCJ02,37.495651,126.760409,"416 Sang-dong, Wonmi-gu, Bucheon-si, Gyeonggi-do, South Korea",No Description
+146418229,베어홀 (Bear Hall),0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.514766,127.065688,"Samseong-dong, Gangnam-gu, Seoul, South Korea",No Description

@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+146497863,EMC Golf Range,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seongnam,,GCJ02,37.39267,127.132876,"285-1 Imae-dong, Bundang-gu, Seongnam-si, Gyeonggi-do",No Description
+61866062,Playz Lounge,0.0,https://ak-d.tripcdn.com/images/0ww5q1200090ietu3220F.jpg,Seoul,"['Amusement Parks', 'Entertainment Centers']",GCJ02,37.545721,127.042368,"32-9, Seoulsup 2-gil, Seongdong-gu, Seoul 04768, South Korea",No Description
+99588816,Ganghwa Pungmul Market,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M07/C4/B1/CghzgVW7IAiANe2RAABDVNaG3tM088.jpg,Incheon,['Markets'],GCJ02,37.741481,126.492728,"South Korea, Incheon, Kanghwa, Ganghwa-eup, 중앙로 17-9",No Description
+143763082,Seoghwachon,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Namyangju-si,,GCJ02,37.651016,127.191483,"39-3 Sareung-ro 304beon-gil, Jingeon-eup, Namyangju-si, Gyeonggi-do",No Description
+146971262,"Canine Park, Gwanggyo Lake Park",0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Suwon,,GCJ02,37.285444,127.078701,"40-1 Ha-dong, Yeongtong-gu, Suwon-si, Gyeonggi-do, South Korea",No Description
+147032958,Saenara Children’s Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.547927,126.976352,"Duteopbawi-ro, 후암동 Yongsan-gu, Seoul",No Description
+147386646,Manhae Square,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.559731,126.999384,"Chungmuro 4(sa)-ga, Jung-gu, Seoul",No Description
+142448556,CGV Gimpo,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Gimpo-si,,GCJ02,37.606986,126.723221,"128 Pungmu-ro, 풍무동 Gimpo-si, Gyeonggi-do",No Description
+147359112,Mukjeong Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.563645,126.999789,"32-12 Toegye-ro 45-gil, Jung-gu, Seoul",No Description
+144008736,Samsung Seoul R&D Campus,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.465905,127.022972,"56 Seongchon-gil, Seocho-gu, Seoul, South Korea",No Description

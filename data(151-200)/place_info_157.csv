@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+142820838,Pororo Theme Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.481268,127.142696,"거여2동 Songpa-gu, Seoul",No Description
+146714273,Hyeonchung Neighborhood Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Gwangmyeong,,GCJ02,37.483876,126.865427,"153 Cheolsan-dong, Gwangmyeong-si, Gyeonggi-do, South Korea",No Description
+147357094,The K Hotel Seoul Convention Center,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.466739,127.033183,"202 Yangjae-dong, Seocho-gu, Seoul",No Description
+142438917,Dongjak Public Library,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M01/AF/63/CghzfFW7IASAT10JAAA6hcRCmrA034.jpg,Seoul,['Libraries'],GCJ02,37.505928,126.940058,"94 Jangseungbaegi-ro, Dongjak-gu, Seoul",No Description
+146795017,Onggigol Neighborhood Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.573837,126.821096,"Banghwa-dong, Gangseo-gu, Seoul, South Korea",No Description
+50638270,Pyeongchon Art Hall,5.0,https://ak-d.tripcdn.com/images/0ww4a1200090g6ui61EBA.jpg,Anyang,['Theater'],GCJ02,37.379999,126.963948,"1112, Galsan-dong, Dongan-gu, Anyang, Gyeonggi-do, South Korea",No Description
+142593135,Albus Gallery,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/08/Cghzf1W7IAOADod_AAA1Xhhuy-U142.jpg,Seoul,['Art Museums'],GCJ02,37.538174,127.005881,"723-6 한남동 Yongsan-gu, Seoul",No Description
+142783134,Korea University Central Plaza,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.58851,127.033766,"Seoul, Seongbuk-gu, Anam-ro, 145 중앙광장 127호",No Description
+142961592,Art Gallery '57th',0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/08/Cghzf1W7IAOADod_AAA1Xhhuy-U142.jpg,Seoul,['Art Museums'],GCJ02,37.576386,126.982584,"57 Songhyeon-dong, Jongno-gu, Seoul, South Korea",No Description
+146477816,Sparex,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.571984,127.015284,"19 Jibong-ro, Changsin-dong, Jongno-gu, Seoul",No Description

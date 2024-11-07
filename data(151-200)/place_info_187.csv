@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+31979882,Stradeum,5.0,https://ak-d.tripcdn.com/images/100e190000017uggb6783.png,Seoul,,GCJ02,37.537269,127.000439,"251, Itaewon-ro, Hannam-dong, Yongsan-gu, Seoul",No Description
+142783168,Maebongsan,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.572072,126.893811,"산53-11 Seongsan-dong, Mapo-gu, Seoul",No Description
+142870123,Bukjeong Village,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.592504,126.992438,"217-198 Seongbuk-dong, Seongbuk-gu, Seoul, South Korea",No Description
+95997493,Byeokwoon Neighborhood Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/07/Cghzf1W7H_mAOouUAAA0-J5t66I153.jpg,Seoul,['City Parks'],GCJ02,37.680522,127.057847,"Sanggye-dong, Nowon-gu, Seoul, South Korea",No Description
+137305863,Sayukshin Tomb,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M08/FC/24/CghzflW7IACAHgzUAAAvGcMqieg905.jpg,Seoul,['Historical Sites'],GCJ02,37.513695,126.948851,"191 Noryangjin-ro, Dongjak-gu, Seoul, South Korea",No Description
+146912049,Seongnam Sports Complex Center,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seongnam,,GCJ02,37.432683,127.138262,"Gyeonggi-do, Seongnam-si, Jeil-ro, 60 KR",No Description
+147544526,Sports Island,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Suwon,,GCJ02,37.290457,127.034873,"South Korea, Gyeonggi-do, Suwon-si, Changnyong-daero 210beon-gil, 41 KR 스포츠아일랜드",No Description
+145043615,용인 아르피아 체육공원,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Yongin-si,,GCJ02,37.327286,127.105469,"499 Poeun-daero, Suji-gu, Yongin-si, Gyeonggi-do",No Description
+62064886,Dongtan Central Park,5.0,https://ak-d.tripcdn.com/images/0ww3412000c7oas5v8DAA.jpg,Hwaseong-si,['City Parks'],GCJ02,37.205108,127.063499,"59 Bansong-dong, Hwaseong-si, Gyeonggi-do, South Korea",No Description
+146368545,고양ic야구장,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Goyang-si,,GCJ02,37.664354,126.824492,"523-1 Jugyo-dong, Deogyang-gu, Goyang-si, Gyeonggi-do, South Korea",No Description

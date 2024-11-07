@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+147652783,Lotte Hotel indoor pool,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.56545,126.980391,"30 Eulji-ro, Euljiro 1(il)-ga, Jung-gu, Seoul, South Korea",No Description
+142738051,Skycat Cafe,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.56341,126.983423,"2 Myeongdong 4-gil, Jung-gu, Seoul",No Description
+22847641,Shinhan Museum,4.6,https://ak-d.tripcdn.com/images/0ww5q12000aeslb8w658E.jpg,Seoul,['Museums'],GCJ02,37.568626,126.97645,"62-12 Taepyeongno 1-ga, Jung-gu, Seoul 100-101 South Korea",No Description
+144081598,Sajaam,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.492352,126.937058,"Seoul, Dongjak-gu, 상도제3동 280",No Description
+147228617,Woori Game 2,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.587361,127.009077,"14 Samseongyo-ro 10-gil, Samseon-dong 1(il)-ga, Seongbuk-gu, Seoul",No Description
+61171842,Banghwa Bridge,5.0,https://ak-d.tripcdn.com/images/0104q12000a5cob199FF9.jpg,Goyang-si,['Bridges'],GCJ02,37.588548,126.827371,"Banghwa-dong, Gangseo-gu, Seoul, South Korea",No Description
+137324904,Seongbuk Seonjam Museum,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M08/AE/87/CghzfVW7IAOAbNKNAABCrs7mUrY425.jpg,Seoul,['Museums'],GCJ02,37.593194,126.998206,"96 Seongbuk-ro, Seongbuk-gu, Seoul, South Korea",No Description
+147445870,Guryong Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.582884,126.883727,"456 World Cup buk-ro, Mapo-gu, Seoul, South Korea",No Description
+141432811,Bundang Woori Church,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seongnam,,GCJ02,37.39221,127.130818,"100 Imae-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, South Korea",No Description
+146635919,Feliz Salsa Club 펠리스 클럽 구 텐션,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.55756,126.923349,"Seoul, Mapo-gu, World Cup buk-ro 2-gil, 57 B1",No Description

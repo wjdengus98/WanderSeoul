@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+147099933,Gym Boxx Fitness Sillim 3,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.470331,126.934717,"Seoul, Gwanak-gu, Sillim-ro 23-gil, 16 1층",No Description
+95997577,Wangsimni Cultural Park,0.0,https://ak-d.tripcdn.com/images/0106a1200099alqhv8DFE.png,Seoul,['City Parks'],GCJ02,37.561731,127.03527,"Doseon-dong, Seongdong-gu, Seoul, South Korea",No Description
+95997732,Cheongun Park,5.0,https://ak-d.tripcdn.com/images/0100m120009bgbe378F5F.png,Seoul,['City Parks'],GCJ02,37.590536,126.966201,"119 Changuimun-ro, Jongno-gu, Seoul",No Description
+143860614,문수사,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.63128,126.972603,"304 Bibong 2-gil, Jongno-gu, Seoul",No Description
+137532747,Experience Hall for Emergency Preparedness,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.53511,126.976935,"29 Itaewon-ro, Yongsan-gu, Seoul, South Korea",No Description
+142621823,Apgujeong Catholic Church,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/AE/62/CghzgFW7IBCAHuSzAAAx3FcjVOM139.jpg,Seoul,['Churches and Cathedrals'],GCJ02,37.525064,127.026236,"33 Nonhyeon-ro 175-gil, Gangnam-gu, Seoul, South Korea",No Description
+62066868,Baeg-Unsa,5.0,https://ak-d.tripcdn.com/images/0ww4c12000a9psh86859E.jpg,Uiwang-si,"['Other Places of Worship', 'Temples']",GCJ02,37.349867,127.008112,"San 4-1, Wanggok-dong, Uiwang, Gyeonggi-do, South Korea",No Description
+65177608,Seoul Art Space Mullae,5.0,https://ak-d.tripcdn.com/images/0101m120009bgihdfAA5F.png,Seoul,['Fine Art Galleries'],GCJ02,37.513177,126.900143,"30, 1 Munil-dong, Yeongdeungpo-gu, Seoul",No Description
+146586663,comcomplay,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.539514,126.969226,"51 Baekbeom-ro 87-gil, 원효로제1동 Yongsan-gu, Seoul",No Description
+142409616,LOTTE CINEMA Yongin Giheung,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M02/AF/63/CghzfFW7IAaAPaqMAAA-wvU2dn8545.jpg,Yongin-si,['Cinemas'],GCJ02,37.274374,127.11663,"Gyeonggi-do, Yongin-si, Giheung-gu, Gugal-dong, Giheungyeok-ro, 63 AK& 기흥 5층",No Description

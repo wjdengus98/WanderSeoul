@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+143853663,Benedictine monastery of St. Joseph,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/AE/62/CghzgFW7IBCAHuSzAAAx3FcjVOM139.jpg,Namyangju-si,['Churches and Cathedrals'],GCJ02,37.655113,127.102182,"105-75 Buramsan-ro, Namyangju-si, Gyeonggi-do",No Description
+146467851,Haeoreum Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.556788,127.092042,"Junggok-dong, Gwangjin-gu, Seoul",No Description
+142697979,Supyogyo Bridge,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.558146,127.005049,"197-1 Jangchung-dong 2(i)-ga, Jung-gu, Seoul",No Description
+144081530,Biseokgol Neighborhood Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.630723,127.048628,"Wolgye-dong, Nowon-gu, Seoul",No Description
+147633142,KOLON SPOREX,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.517491,126.90282,"YEONGDEUNGPO-GU Seoul, South Korea",No Description
+146643783,PC CLUB Z (Guro Digital Complex Staion),0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.483533,126.901631,"b1, 97-22 Digital-ro 32-gil, Guro-gu, Seoul, South Korea",No Description
+147337347,SCC홀,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.481713,127.014468,"1450-2 Seocho-dong, Seocho-gu, Seoul, South Korea",No Description
+133525224,Feelux Lighting Museum,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M08/AE/87/CghzfVW7IAOAbNKNAABCrs7mUrY425.jpg,Yangju,['Museums'],GCJ02,37.836115,126.96795,"235-48, Gwangjeok-ro, Gwangjeok-myeon, Yangju, Gyeonggi-do 11414 South Korea",No Description
+146734164,PeaK PC Bang Yeoksam,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.500437,127.041431,"역삼동 언주로85길, 23-6 지하1층, Gangnam-gu, Seoul",No Description
+142370556,삼일교회B관,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.546873,126.970661,"304 Cheongpa-ro, Yongsan-gu, Seoul",No Description

@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+22846435,Samseon Museum of Publishing,4.5,https://ak-d.tripcdn.com/images/100d1f000001gosde3CE0.jpg,Seoul,['Museums'],GCJ02,37.608605,126.957037,"2-2 Bibong-gil, Jongno-gu, Seoul",No Description
+147688387,Cloud Gym,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.558369,126.92851,"506-22 Changcheon-dong, Seodaemun-gu, Seoul",No Description
+61830695,Street Museum,5.0,https://ak-d.tripcdn.com/images/0ww2g12000arreo0h0C6A.jpg,Seoul,['Museums'],GCJ02,37.560238,126.991933,"14, Toegye-ro 30-gil, Jung-gu, Seoul 04627, South Korea",No Description
+141771828,Catholic Archdiocese of Seoul,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.563446,126.985977,"74 Myeongdong-gil, Jung-gu, Seoul",No Description
+136939906,Bibong Wetland Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M05/AF/62/CghzfFW7H_qAMHi7AAA87dfE3Nk433.jpg,Hwaseong-si,['Caves'],GCJ02,37.261147,126.848904,"South Korea, Gyeonggi-do, Hwaseong-si, Bibong-myeon, 유포리 619",No Description
+149292251,Musical 〈MATA HARI〉,0.0,https://ak-d.tripcdn.com/images/0106212000gahy44f2A63.jpg,Seoul,"['Theater', 'Stage Drama']",GCJ02,37.565087,126.829593,"LG Arts Center, seoul, korea",No Description
+136805208,Bukchon Traditional Crafts Center,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M08/AE/87/CghzfVW7IAOAbNKNAABCrs7mUrY425.jpg,Seoul,['Museums'],GCJ02,37.582445,126.986025,"24-5 Bukchon-ro 12-gil, Jongno-gu, Seoul, South Korea",No Description
+142669448,Blooming Hill Methodist Church,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/AE/62/CghzgFW7IBCAHuSzAAAx3FcjVOM139.jpg,Seoul,['Churches and Cathedrals'],GCJ02,37.566747,127.027906,"164 Majang-ro, WangsimniDoseon-dong, Seongdong-gu, Seoul",No Description
+144861298,Hwasan Golf Driving Range,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Hwaseong-si,,GCJ02,37.211301,127.02478,"Hwaseong-si, South Korea",No Description
+146447959,Simhaksan,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Paju-si,,GCJ02,37.706457,126.695382,Paju-si,No Description

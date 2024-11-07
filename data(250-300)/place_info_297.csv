@@ -1,0 +1,4 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+147336008,Namsuwon GC,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Hwaseong-si,,GCJ02,37.215159,127.008046,"21-10 Hwanggyenam-gil, Hwaseong-si, Gyeonggi-do, South Korea",No Description
+65178398,Dangin-ri Cherry Blossom Street,0.0,https://ak-d.tripcdn.com/images/01021120009c2ewxmB953.jpg,Seoul,['Theme Parks'],GCJ02,37.544406,126.911625,"Hejing-dong, Mapo-gu, Seoul",No Description
+146931780,韓国、花マッド汗蒸幕,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.56591,126.992232,"Euljiro 3(sam)-ga, Jung-gu, Seoul",No Description

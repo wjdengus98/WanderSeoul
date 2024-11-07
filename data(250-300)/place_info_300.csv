@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+147000980,"Fitness Clinic, Samsung points",0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.507303,127.056718,"501 Teheran-ro, Samseong-dong, Gangnam-gu, Seoul, South Korea",No Description
+146533559,Ski Gonjiam,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Gwangju,,GCJ02,37.331614,127.283799,"278 Docheogwit-ro, Docheok-myeon, Gwangju-si, Gyeonggi-do",No Description
+141155746,Guri Catholic Church,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/AE/62/CghzgFW7IBCAHuSzAAAx3FcjVOM139.jpg,Guri-si,['Churches and Cathedrals'],GCJ02,37.596701,127.140258,"42 Angol-ro 64beon-gil, Guri-si, Gyeonggi-do, South Korea",No Description
+142869889,PyoungAn Church,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/AE/62/CghzgFW7IBCAHuSzAAAx3FcjVOM139.jpg,Seoul,['Churches and Cathedrals'],GCJ02,37.562757,126.97072,"89-11 Seosomun-ro, Jung-gu, Seoul",No Description
+144007973,GNG Plastic Surgery Hospital,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.516213,127.059666,"90-14 Samseong 1(il)-dong, Gangnam-gu, Seoul",No Description
+146533258,Ounjung,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.586459,126.974898,"1 Sejongno, Jongno District, Seoul",No Description
+146726595,Seogbulsa,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.535962,126.944757,"394 Mapo-dong, Mapo-gu, Seoul",No Description
+147010764,F45 Training Hannam,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.533553,127.008638,"South Korea, Unit 404 KR 서울특별시 용산구 258 Hannam-dong",No Description
+142272313,Yongmunsan Tourist Site,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Yangpyeong-gun,,GCJ02,37.546604,127.582189,"Yangpyeong, South Korea",No Description
+138285313,Samseyeong,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/08/Cghzf1W7IAOADod_AAA1Xhhuy-U142.jpg,Seoul,['Art Museums'],GCJ02,37.613595,126.978261,"2 Pyeongchang 44-gil, Jongno-gu, Seoul",No Description

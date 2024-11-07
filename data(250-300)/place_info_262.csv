@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+146854410,Geumnyupokpo,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Namyangju-si,,GCJ02,37.6975,127.091111,"Namyangju-si, South Korea",No Description
+142353190,KCDF Gallery,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/08/Cghzf1W7IAOADod_AAA1Xhhuy-U142.jpg,Seoul,['Art Museums'],GCJ02,37.573987,126.984109,"8 Insadong 11-gil, Jongno-gu, Seoul, South Korea",No Description
+142754848,Wongaksa Pagoda,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.571488,126.988185,"99 Jong-ro, Jongno-gu, Seoul, South Korea",No Description
+142802058,108 Stairs,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/AE/62/CghzgFW7IBCAHuSzAAAx3FcjVOM139.jpg,Seoul,['Churches and Cathedrals'],GCJ02,37.546348,126.982038,"415-53 Huam-dong, Yongsan-gu, Seoul",No Description
+142969107,Hannam-dong Catholic Church,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/AE/62/CghzgFW7IBCAHuSzAAAx3FcjVOM139.jpg,Seoul,['Churches and Cathedrals'],GCJ02,37.533644,127.002518,"39 Daesagwan-ro, Yongsan-gu, Seoul",No Description
+147398989,Secret outdoor gym - Free,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.551378,126.99763,"Jangchung-dong 2(i)-ga, Jung-gu, Seoul, South Korea",No Description
+62052708,Gold Bowling Center,0.0,https://ak-d.tripcdn.com/images/100t0f0000007gxvq9397.jpg,Uiwang-si,['Bowling Alleys'],GCJ02,37.35252,126.971924,"292, Gyeongsu-daero, Gunpo, Gyeonggi-do, South Korea",No Description
+147406401,B2볼링장,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Incheon,,GCJ02,37.46079,126.711059,"Incheon, South Korea",No Description
+142593169,"Lotte Shopping, Lotte Cinema Gwangju Terminal pipe",0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Gwangju,,GCJ02,37.409522,127.261229,"30 Gwangju-daero, Gwangju-si, Gyeonggi-do, South Korea",No Description
+142351008,Kwangya Church,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/AE/62/CghzgFW7IBCAHuSzAAAx3FcjVOM139.jpg,Seoul,['Churches and Cathedrals'],GCJ02,37.515373,126.9052,"3 Gyeongin-ro 100-gil, Yeongdeungpo-gu, Seoul",No Description

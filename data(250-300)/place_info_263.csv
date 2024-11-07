@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+62052708,Gold Bowling Center,0.0,https://ak-d.tripcdn.com/images/100t0f0000007gxvq9397.jpg,Uiwang-si,['Bowling Alleys'],GCJ02,37.35252,126.971924,"292, Gyeongsu-daero, Gunpo, Gyeonggi-do, South Korea",No Description
+147406401,B2볼링장,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Incheon,,GCJ02,37.46079,126.711059,"Incheon, South Korea",No Description
+142593169,"Lotte Shopping, Lotte Cinema Gwangju Terminal pipe",0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Gwangju,,GCJ02,37.409522,127.261229,"30 Gwangju-daero, Gwangju-si, Gyeonggi-do, South Korea",No Description
+142351008,Kwangya Church,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/AE/62/CghzgFW7IBCAHuSzAAAx3FcjVOM139.jpg,Seoul,['Churches and Cathedrals'],GCJ02,37.515373,126.9052,"3 Gyeongin-ro 100-gil, Yeongdeungpo-gu, Seoul",No Description
+142888622,Namsan Octagonal Square,0.0,https://ak-d.tripcdn.com/images/0100b12000eo390dw2A47.jpg,Seoul,['Squares'],GCJ02,37.551758,126.988046,"8-1 Yejang-dong, Jung-gu, Seoul, South Korea",No Description
+144006665,Opera Gallery Seoul,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/08/Cghzf1W7IAOADod_AAA1Xhhuy-U142.jpg,Seoul,['Art Museums'],GCJ02,37.523314,127.034823,"18 Eonju-ro 154-gil, Gangnam-gu, Seoul, South Korea",No Description
+146420323,Museum HanMi,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.588316,126.981001,"11 Samcheong-ro 11-gil, Jongno-gu, Seoul",No Description
+99591549,The Ananti Club Seoul,0.0,https://ak-d.tripcdn.com/images/0ww2k120009561800EFF2.jpg,Gapyeong-gun,['Golf Courses'],GCJ02,37.61977,127.482442,"961-34 Yumyeong-ro, Seorak-myeon, Gapyeong-gun, Gyeonggi-do, South Korea",No Description
+136162697,Insadong Hanjeungmak,0.0,https://ak-d.tripcdn.com/images/0ww7212000cr6lie9D569.jpg,Seoul,,GCJ02,37.575752,126.9891,"36, Yulgok-ro 6-gil, Jongno-gu B1, Seoul South Korea",No Description
+141726523,Pyeongchon Church,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/AE/62/CghzgFW7IBCAHuSzAAAx3FcjVOM139.jpg,Anyang,['Churches and Cathedrals'],GCJ02,37.380719,126.967485,"126 Pyeongchon-daero 40beon-gil, Dongan-gu, Anyang-si, Gyeonggi-do, South Korea",No Description

@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+146487918,코드 이스케이프 CODE ESCAPE,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.518812,127.023377,"14 Dosan-daero 13-gil, Gangnam-gu, Seoul",No Description
+147376772,MN FITNESS,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.519154,127.05032,Seoul,No Description
+146981161,Gyengan Neighborhood Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Gwangju,,GCJ02,37.407948,127.252308,"Gwangju-si, South Korea",No Description
+146288568,질러U 코인노래연습장,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.613078,127.031227,"11 Dobong-ro 10ga-gil, Gangbuk-gu, Seoul, South Korea",No Description
+146418241,Hoamsan Forest Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.433989,126.90691,"South Korea, Seoul, Geumcheon-gu, 시흥제3동",No Description
+149292433,Musical 〈IF/THEN〉,0.0,https://ak-d.tripcdn.com/images/0104512000gakbggc6F4D.jpg,Seoul,"['Theater', 'Stage Drama']",GCJ02,37.576507,127.001524,"Hongik Art Center, Seoul, Korea",No Description
+137400756,Cheonmasan Country Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M0A/C5/08/Cghzf1W7H_6AKXJzAAA6dsonnm8176.jpg,Namyangju-si,['Hiking'],GCJ02,37.676721,127.27316,"192-1 Mukhyeon-ri, Hwado-eup, Namyangju-si, Gyeonggi-do, South Korea",No Description
+140164154,Paldal Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/07/Cghzf1W7H_mAOouUAAA0-J5t66I153.jpg,Suwon,['City Parks'],GCJ02,37.277556,127.010684,"Hwaseo-dong, Paldal-gu, Suwon-si, Gyeonggi-do, South Korea",No Description
+136983275,Gwanggyo Central Park (near.Prosecutor's office),0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/07/Cghzf1W7H_mAOouUAAA0-J5t66I153.jpg,Suwon,['City Parks'],GCJ02,37.289788,127.065156,"Iui-dong, Yeongtong-gu, Suwon-si, Gyeonggi-do, South Korea",No Description
+147544642,VIPPARK,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Yangju,,GCJ02,37.696604,126.925759,장흥면 삼상리 397-1번지 외10호 필지 양주시 경기도 KR,No Description

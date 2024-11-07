@@ -1,0 +1,5 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+147544489,Gym Boxx Fitness Guro Digital Complex,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.485414,126.896506,"Seoul, Guro-gu, Digital-ro, 300 지밸리몰 지하 1층",No Description
+95956025,Bandal Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/07/Cghzf1W7H_mAOouUAAA0-J5t66I153.jpg,Suwon,['City Parks'],GCJ02,37.25065,127.07833,"Yeongtong-dong, Yeongtong-gu, Suwon-si, Gyeonggi-do, South Korea",No Description
+147686215,SSADA FITNESS,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.499348,127.031003,"121 Teheran-ro, Gangnam-gu, Seoul, South Korea",No Description
+148809313,Bukchon Changwoo Theater,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.578867,126.988829,"158-1 Wonseo-dong, Jongno District, Seoul",No Description

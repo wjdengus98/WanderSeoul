@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+146794981,City Gym,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.565188,127.05422,"308 Cheonho-daero, Yongdap-dong, Seoul, South Korea",No Description
+147228868,Cheonbosa,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Namyangju-si,,GCJ02,37.656558,127.095427,"145 Buramsan-ro, Namyangju-si, Gyeonggi-do, South Korea",No Description
+147337465,Seoul National University Cultural Center,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.461547,126.951003,"Seoul National University, Seoul, South Korea",No Description
+147248362,INDIAN CULTURAL CENTRE SEOUL,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.535482,127.011534,"1-398 Hannam-dong, Yongsan-gu, Seoul, South Korea",No Description
+147386643,August climbing,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.563038,126.852246,"461 Yangcheon-ro, Gangseo-gu, Seoul",No Description
+38716473,Arachnopia (Jupil Spider Museum),0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M08/AE/87/CghzfVW7IAOAbNKNAABCrs7mUrY425.jpg,Namyangju-si,['Museums'],GCJ02,37.567316,127.282231,"Namyangju-si, South Korea",No Description
+144872094,Golfzon Park Seohyeon W,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seongnam,,GCJ02,37.38615,127.122386,"337 Hwangsaeul-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, South Korea",No Description
+143767511,Midoorini-gongwon,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.462778,126.915278,"Sillim-dong, Gwanak-gu, Seoul",No Description
+146418203,Dolsaem children's park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.576031,126.818846,"Banghwa-dong, Gangseo-gu, Seoul, South Korea",No Description
+147583947,Dongwha Healing Camp,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Paju-si,,GCJ02,37.891249,126.840956,"121 Dupo-ri, Papyeong-myeon, Paju-si, Gyeonggi-do",No Description

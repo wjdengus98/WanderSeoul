@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+146969958,JMS,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Yongin-si,,GCJ02,37.222249,127.089649,"38-2 Nongseo-dong, Giheung-gu, Yongin-si, Gyeonggi-do, South Korea",No Description
+22846486,Korean Museum of Straw and Life,4.7,https://ak-d.tripcdn.com/images/1005190000016s49cBE39.png,Seoul,['Museums'],GCJ02,37.58487,126.999829,"45 Sungkyunkwan-ro 4-gil, Jongno-gu, Seoul",No Description
+138850545,Seonbuldang,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M08/FC/24/CghzflW7IACAHgzUAAAvGcMqieg905.jpg,Seoul,['Historical Sites'],GCJ02,37.515461,127.057686,"531 Bongeunsa-ro, Gangnam-gu, Seoul, South Korea",No Description
+142867926,creative art group SAI 갤러리사이,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.581544,126.984624,"30-11 Gahoe-dong, Jongno-gu, Seoul",No Description
+142954150,Ahwon,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.579718,126.982191,"3 Bukchon-ro 5ga-gil, Jongno-gu, Seoul",No Description
+146633855,YeonHwaJeongSa,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.614418,126.979468,"69 Pyeongchang 40-gil, Pyeongchang-dong, Jongno-gu, Seoul, South Korea",No Description
+146653756,Damjang,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.564383,126.995026,"South Korea, KR 서울특별시 중구 마른내로 63-3 2F",No Description
+147357088,Banpo Hangang Park Picnic Area,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.51246,127.00041,"122-1 Jamwon-dong, Seocho District, Seoul",No Description
+62011748,Incheon Bridge Memorial Hall,3.0,https://ak-d.tripcdn.com/images/0ww5y12000cr51xg84A67.jpg,Incheon,['Memorial Halls'],GCJ02,37.469219,126.515138,"1017 Yeongjonghaeannam-ro, Jung-gu, Incheon, South Korea",No Description
+142595052,Water Wheel Spot,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Gwangju,,GCJ02,37.470403,127.198313,"619 Namhansanseong-ro, Namhansanseong-myeon, Gwangju-si, Gyeonggi-do, South Korea",No Description

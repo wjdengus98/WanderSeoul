@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+136789126,Mongneung,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M08/FC/24/CghzflW7IACAHgzUAAAvGcMqieg905.jpg,Guri-si,['Historical Sites'],GCJ02,37.625657,127.133172,"South Korea, Gyeonggi-do, Guri-si, 동구동 3-4",No Description
+95997329,Daejin-gongwon,5.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/07/Cghzf1W7H_mAOouUAAA0-J5t66I153.jpg,Seoul,['City Parks'],GCJ02,37.495545,127.078462,"12 Gaepo-dong, Gangnam-gu, Seoul, South Korea",No Description
+146633939,A-Bowl,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Siheung-si,,GCJ02,37.440925,126.782657,"Gyeonggi-do, Siheung-si, 신천동 Sammisijang 1-gil, 743-2 KR 37",No Description
+55871624,Cat cafe Goyangi Noriteo,4.3,https://ak-d.tripcdn.com/images/0ww4v12000apiwbtc1622.jpg,Seoul,['Activities'],GCJ02,37.561937,126.985473,"3F, 37-14 Myeongdong 8-gil, Jung-gu, Seoul, South Korea","GoyangiNoriteo Cat Cafe, located in Seoul, South Korea, is a very cute cafe where tourists can not only taste delicious coffee, but also play with kittens, which is very suitable for bringing children to play."
+95997553,Baramsan Children's Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/07/Cghzf1W7H_mAOouUAAA0-J5t66I153.jpg,Seoul,['City Parks'],GCJ02,37.55823,126.940196,"Changcheon-dong, Seodaemun-gu, Seoul, South Korea",No Description
+142602676,Aston House,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.555839,127.111151,"177 Walkerhill-ro, Gwangjin-gu, Seoul",No Description
+146544520,Jamaica Fitness,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.486402,127.051846,우성 캐릭터 467-24 KR 서울특별시 강남구 도곡동 1층,No Description
+142341162,Club Madholic,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.550621,126.920679,"B1, 21, Jandari-ro, 405-18 서교동, Mapo-gu, Seoul",No Description
+147141529,spoAny,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.494656,127.030066,"South Korea, 역삼동 831-3번지 하2층 역삼동 강남구 서울특별시 KR",No Description
+146350763,CrossFit NewGen,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.550688,126.923728,"South Korea, Seoul, Mapo-gu, Wausan-ro 18-gil, 12 지하 1층",No Description

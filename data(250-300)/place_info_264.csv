@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+99591549,The Ananti Club Seoul,0.0,https://ak-d.tripcdn.com/images/0ww2k120009561800EFF2.jpg,Gapyeong-gun,['Golf Courses'],GCJ02,37.61977,127.482442,"961-34 Yumyeong-ro, Seorak-myeon, Gapyeong-gun, Gyeonggi-do, South Korea",No Description
+136162697,Insadong Hanjeungmak,0.0,https://ak-d.tripcdn.com/images/0ww7212000cr6lie9D569.jpg,Seoul,,GCJ02,37.575752,126.9891,"36, Yulgok-ro 6-gil, Jongno-gu B1, Seoul South Korea",No Description
+141726523,Pyeongchon Church,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/AE/62/CghzgFW7IBCAHuSzAAAx3FcjVOM139.jpg,Anyang,['Churches and Cathedrals'],GCJ02,37.380719,126.967485,"126 Pyeongchon-daero 40beon-gil, Dongan-gu, Anyang-si, Gyeonggi-do, South Korea",No Description
+147100090,Saeam Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Paju-si,,GCJ02,37.709763,126.747544,"Dongpae-dong, Paju-si, Gyeonggi-do, South Korea",No Description
+149276134,松鶴海苔,0.0,https://ak-d.tripcdn.com/images/0103812000g2zxun3B89E.jpg,Goyang-si,,GCJ02,37.602651,126.822879,경기도 고양시 덕양구 행주동 행주산성로 38,No Description
+147357114,Incheon Dowon City Swimming Pool,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Incheon,,GCJ02,37.465528,126.639412,"22 Saetgol-ro 41beon-gil, Jung-gu, Incheon, South Korea",No Description
+56084366,Incheon Football Stadium,0.0,https://ak-d.tripcdn.com/images/0ww2p12000cpwyyst3784.jpg,Incheon,['Stadiums'],GCJ02,37.466013,126.643011,"Incheon, South Korea",No Description
+142302033,CGV 파주문산,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M02/AF/63/CghzfFW7IAaAPaqMAAA-wvU2dn8545.jpg,Paju-si,['Cinemas'],GCJ02,37.866686,126.784138,"1719-10 Bangchon-ro, Munsan-eup, Paju-si, Gyeonggi-do, South Korea",No Description
+146199097,Leogkijim,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Goyang-si,,GCJ02,37.635142,126.831404,"47 동원텔 Hwajeong-ro, Deogyang-gu, Goyang-si, Gyeonggi-do, South Korea",No Description
+147050385,Gwuitturami Clean Tennis Court,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.495594,126.866806,"South Korea, Seoul, Guro-gu, 고척제1동 66-30",No Description

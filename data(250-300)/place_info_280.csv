@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+149291265,2024 Kim Young-Heum Small Theater Fan Concert,0.0,https://ak-d.tripcdn.com/images/0100q12000g9y0n92E848.jpg,Seoul,['Concerts'],GCJ02,37.552091,126.92042,"Club onair 서울 마포구 잔다리로 44 (서교동, 예경빌딩)",No Description
+144862996,Tiger CC,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Paju-si,,GCJ02,37.92381,126.894694,"1803 Surihol-ro, Beobwon-eup, Paju-si, Gyeonggi-do",No Description
+146338435,서울둘레길 3코스 고덕•일자산코스 - 스탬프 3,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.512244,127.140589,"443-16 Oryun-dong, Songpa-gu, Seoul, South Korea",No Description
+146239051,Jim fitness line,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.627419,127.041389,"53 Hancheon-ro 109-gil, Beon-dong, Gangbuk-gu, Seoul",No Description
+146318712,별내TOP구장,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Namyangju-si,,GCJ02,37.703534,127.114895,"506-5 Cheonghak-ri, Byeollae-myeon, Namyangju-si, Gyeonggi-do, South Korea",No Description
+149396554,LOOK AT! GIRLS(Sanghee X Kawanishi Natsuki X n@di Live in Seoul),0.0,https://ak-d.tripcdn.com/images/0100m12000gdhsy3h4F5D.png,Seoul,['Concerts'],GCJ02,37.548361,126.920036,"Rolling Hall 402-22 Seogyo-dong, Mapo-gu, Seoul，South Korea",No Description
+142896098,Bucheon Hanok Village,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Incheon,,GCJ02,37.508631,126.743322,Bucheon-si,No Description
+142764356,Calvary Church,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/AE/62/CghzgFW7IBCAHuSzAAAx3FcjVOM139.jpg,Seongnam,['Churches and Cathedrals'],GCJ02,37.390335,127.133299,"Gyeonggi-do, Seongnam-si, Imae-ro, 132 KR",No Description
+142933545,Trance Bar,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.533616,126.996006,"B1, 7 Usadan-ro 12-gil, 이태원제1동 Yongsan-gu, Seoul",No Description
+147386854,Bulgwang Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.619694,126.930112,"Bulgwang-dong, Eunpyeong-gu, Seoul",No Description

@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+142382339,Songhaegil Street,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/AE/62/CghzgFW7IBCAHuSzAAAx3FcjVOM139.jpg,Seoul,"['Churches and Cathedrals', 'Featured Neighborhoods']",GCJ02,37.570525,126.989385,"Nagwon-dong, Jongno-gu, Seoul, South Korea",No Description
+146438091,Sangmyeong Art Hall,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.583333,127.002727,"133 Dongsung-gil, Jongno-gu, Seoul, South Korea",No Description
+58353483,Statue of Gangnam Style,0.0,https://ak-d.tripcdn.com/images/0ww6e12000aghj10p9238.jpg,Seoul,['Monuments'],GCJ02,37.512287,127.06088,"Youngdongdaero 513 COEX East Gate, Seoul 06087 South Korea",No Description
+95955560,Jeongja Park,4.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/07/Cghzf1W7H_mAOouUAAA0-J5t66I153.jpg,Suwon,['City Parks'],GCJ02,37.298957,126.989893,"Jeongja-dong, Jangan-gu, Suwon-si, Gyeonggi-do",No Description
+146613939,M3토탈휘트니스,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.553992,127.00967,"Seoul, South Korea",No Description
+146447986,Solan Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Bucheon-si,,GCJ02,37.488037,126.75727,"246 Buil-ro, Bucheon-si, Gyeonggi-do",No Description
+148809377,엔터파크 7,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Incheon,,GCJ02,37.493564,126.724572,"201-9 Bupyeong-dong, Bupyeong District, Incheon",No Description
+95997469,Geumnarae Central Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/07/Cghzf1W7H_mAOouUAAA0-J5t66I153.jpg,Seoul,['City Parks'],GCJ02,37.457609,126.895002,"Doksan-dong, Geumcheon-gu, Seoul",No Description
+141320396,Seongbuk-gu office Baram Madang,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.589695,127.017467,"2-13 Dongseon-dong 2(i)-ga, Seongbuk-gu, Seoul, South Korea",No Description
+147268195,JnP Children's Swimming Instruction Pool,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.500049,127.011224,"6-3 Seochojungang-ro 31-gil, Seocho District, Seoul",No Description

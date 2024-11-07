@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+149541187,2024 COOMO solo concert [RE:],0.0,https://ak-d.tripcdn.com/images/0101m12000gdvjkiy021E.jpg,Seoul,['Concerts'],GCJ02,37.550944,126.941002,"Sogang University 35 Baekbeom-ro, Mapo-gu, Seoul, South Korea",No Description
+61870754,Gaehwasan Mountain,5.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M0B/C4/B0/CghzgVW7H_uAYZlqAAAxbqRlqeE036.jpg,Seoul,"['Hiking', 'Mountains']",GCJ02,37.582778,126.803889,"Geumnanghwa-ro 26ga-gil, Seoul 07501, South Korea",No Description
+65177573,Newspaper Museum PRESSEUM,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M08/AE/87/CghzfVW7IAOAbNKNAABCrs7mUrY425.jpg,Seoul,['Museums'],GCJ02,37.569832,126.977643,"139, 5-6F, Sejong-ro, Jongno-gu, Seoul",No Description
+136063675,Pistil Seoul,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.533825,126.993437,"9, Bogwang-ro 59-gil, Yongsan-gu B1F, Seoul 04391 South Korea",No Description
+143999872,Hi-Wind Kiteboarding School,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.526978,127.079531,"Seoul, Gwangjin-gu, 자양동 564 윈드서핑장29호",No Description
+146716635,ABLE GYM FITNESS Itaewon,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.534887,126.996835,"South Korea, KR 서울특별시 용산구 서울시 용산구 이태원로 27나길 40, 준아트빌 지하 에이블짐휘트니스 1층",No Description
+146864070,Domestic Terminal Observatory,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.558154,126.803468,"Seoul, Gangseo-gu, Haneul-gil, 112 국내선 4층 Gimpo International Airport",No Description
+146931788,Humake Fitness Nonhyeon,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.510811,127.021891,"120-4 논현1동 Gangnam-gu, Seoul",No Description
+146704506,Ice House Ice Rink,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Suwon,,GCJ02,37.265822,126.977006,"South Korea, Gyeonggi-do, Suwon-si, Gwonseon-gu, Tap-dong, 512 KR",No Description
+146517704,Sanbon Public Library,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Gunpo-si,,GCJ02,37.361544,126.92868,"96 Gwangjeong-ro, Gunpo-si, Gyeonggi-do",No Description

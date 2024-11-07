@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+142575808,DDP 청춘런웨이마켓,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.565802,127.00912,"8-4 Euljiro 7(chil)-ga, Jung-gu, Seoul",No Description
+142593131,Megabox Kintex,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M02/AF/63/CghzfFW7IAaAPaqMAAA-wvU2dn8545.jpg,Goyang-si,['Cinemas'],GCJ02,37.667921,126.751689,"Goyang-si, South Korea",No Description
+65178455,Semiwon Garden,5.0,https://ak-d.tripcdn.com/images/0ww3o12000cv1hqyiBACA.jpg,Yangpyeong-gun,['Gardens'],GCJ02,37.538745,127.321854,"93 Yangsu-ro, Yangseo-myeon, Yangpyeong, Gyeonggi-do, South Korea",No Description
+141166722,"Onnuri Church, YangJae",0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/AE/62/CghzgFW7IBCAHuSzAAAx3FcjVOM139.jpg,Seoul,['Churches and Cathedrals'],GCJ02,37.479208,127.034005,"70 Baumoe-ro 31-gil, Seocho-gu, Seoul",No Description
+144791085,Ttukseom Hangang Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,['Nighttime sightseeing'],GCJ02,37.529351,127.069956,"139 Gangbyeonbuk-ro, Gwangjin-gu, Seoul",No Description
+133525899,Ground Seesaw Seochon,5.0,https://ak-d.tripcdn.com/images/0103k12000c97sykb0B0D.jpg,Seoul,"['Art Museums', 'Historical Architectures']",GCJ02,37.577749,126.97292,"18-8 Jahamun-ro 6-gil, Jongno-gu, Seoul 03044 South Korea",No Description
+146271110,Press Center,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.567381,126.977859,"25 Taepyeongno 1(il)-ga, Jung-gu, Seoul, South Korea",No Description
+142360755,Lotte Cinema_Doksan,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M02/AF/63/CghzfFW7IAaAPaqMAAA-wvU2dn8545.jpg,Seoul,['Cinemas'],GCJ02,37.469327,126.897041,"291-5 Doksan-dong, Geumcheon-gu, Seoul",No Description
+144005169,CGV Hagye,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.638987,127.06474,"258 Seombat-ro, Nowon-gu, Seoul",No Description
+138907456,Bongjesan Park Trail,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M0A/C5/08/Cghzf1W7H_6AKXJzAAA6dsonnm8176.jpg,Seoul,['Hiking'],GCJ02,37.542175,126.854705,"Hwagok-dong, Gangseo-gu, Seoul, South Korea",No Description

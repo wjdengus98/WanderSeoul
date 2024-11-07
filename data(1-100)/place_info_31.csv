@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+142914747,Megabox,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M02/AF/63/CghzfFW7IAaAPaqMAAA-wvU2dn8545.jpg,Seoul,['Cinemas'],GCJ02,37.504626,127.004247,"176 Sinbanpo-ro, Banpo-dong, Seocho-gu, Seoul",No Description
+56042759,Bucheon Eco Park,5.0,https://ak-d.tripcdn.com/images/ww0h1e000001ezz4bB854.png,Bucheon-si,"['Forests', 'Botanical Gardens']",GCJ02,37.504907,126.816188,"660 Gilju-ro, Bucheon, Gyeonggi-do, South Korea",No Description
+142877410,Lotte Cinema_GasanDigital,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M02/AF/63/CghzfFW7IAaAPaqMAAA-wvU2dn8545.jpg,Seoul,['Cinemas'],GCJ02,37.477641,126.889192,"60-8 Gasan-dong, Geumcheon-gu, Seoul",No Description
+142564260,Hongik Art Center,0.0,https://ak-d.tripcdn.com/images/0100z12000fs6w84k69A0.png,Seoul,,GCJ02,37.576507,127.001524,"57 Daehak-ro, Jongno-gu, Seoul, South Korea",No Description
+142764276,LOTTE CINEMA Gangdong,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M02/AF/63/CghzfFW7IAaAPaqMAAA-wvU2dn8545.jpg,Seoul,['Cinemas'],GCJ02,37.536667,127.125367,"85 Cheonhoyet-gil, Gangdong-gu, Seoul",No Description
+142400106,CGV,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M02/AF/63/CghzfFW7IAaAPaqMAAA-wvU2dn8545.jpg,Seoul,['Cinemas'],GCJ02,37.642338,127.03002,"399 Dobong-ro, Gangbuk-gu, Seoul, South Korea",No Description
+142621781,Mega Box,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M02/AF/63/CghzfFW7IAaAPaqMAAA-wvU2dn8545.jpg,Seoul,['Cinemas'],GCJ02,37.593172,127.074682,"3 Mangu-ro 30-gil, Sangbong-dong, Jungnang-gu, Seoul",No Description
+136007446,Samcheonggak,0.0,https://ak-d.tripcdn.com/images/0ww0v12000ckt3mu7D3C3.jpg,Seoul,,GCJ02,37.597038,126.984121,"3, Daesagwan-ro, Seongbuk-gu, Seoul 02822 South Korea",No Description
+95955582,Gaetgol Ecological Park,5.0,https://ak-d.tripcdn.com/images/0103b120009bgmk8j521E.png,Siheung-si,"['Caves', 'City Parks', 'Zoos']",GCJ02,37.389308,126.780416,"287 Dongseo-ro, Yeonseong-dong, Siheung-si, Gyeonggi-do, South Korea",No Description
+149291176,K.will Concert < All The Way > : Christmas Edition,0.0,https://ak-d.tripcdn.com/images/0103312000g9ubdtx34DD.jpg,Seoul,['Concerts'],GCJ02,37.564312,126.938918,"Main Auditorium, Yonsei Univ.,Seoul",No Description

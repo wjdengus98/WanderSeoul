@@ -1,0 +1,4 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+137921157,Eungbongsan Palgakjeong Pavilion,0.0,https://ak-d.tripcdn.com/images/1mi4r2215g0fvk3sg1B70.jpg,Seoul,"['Observation Decks', 'Nighttime sightseeing']",GCJ02,37.547798,127.029887,"267-1 Eungbong-dong, Seongdong-gu, Seoul, South Korea",No Description
+143759417,Buk-Seoul Museum of Art,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/25/CghzflW7IA-AKV6TAABByEo2c7Y435.jpg,Seoul,['Fine Art Galleries'],GCJ02,37.640794,127.066763,"1238 Dongil-ro, Nowon-gu, Seoul",No Description
+22846353,Kim Koo Museum & Library,0.0,https://ak-d.tripcdn.com/images/0106512000a4ls424B6A8.png,Seoul,"['Memorial Halls', 'Museums']",GCJ02,37.544554,126.959482,"26 Imjeong-ro, Yongsan-gu, Seoul, South Korea",No Description

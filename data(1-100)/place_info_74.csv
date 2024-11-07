@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+133527233,3355 HANBOK - Gyeongbokgung Palace Store,0.0,https://ak-d.tripcdn.com/images/0ww1v120009c39kc06E01.jpg,Seoul,['Entertainment Centers'],GCJ02,37.577704,126.980587,"41 Yulgok-ro 1-gil, Jongno-gu, Seoul, South Korea",No Description
+147446079,Goyang Harmony Sports Center Swimming Pool,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Goyang-si,,GCJ02,37.649016,126.833373,"33 Eoullim-ro, 성사2동 Deogyang-gu, Goyang-si, Gyeonggi-do, South Korea",No Description
+141282677,SMTOWN THEATRE,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M0B/AE/87/CghzfVW7IAaAJGP4AAA0UwxYU3A867.jpg,Seoul,['Theater'],GCJ02,37.510067,127.061468,"513 Yeongdong-daero, 삼성1동 Gangnam-gu, Seoul, South Korea",No Description
+142839794,CGV Dongdaemun,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M02/AF/63/CghzfFW7IAaAPaqMAAA-wvU2dn8545.jpg,Seoul,['Cinemas'],GCJ02,37.568911,127.007866,"20 Jangchungdan-ro 13-gil, Jung-gu, Seoul",No Description
+136901843,Lake Garden,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/07/Cghzf1W7H_mAOouUAAA0-J5t66I153.jpg,Seoul,['City Parks'],GCJ02,37.570094,126.83238,"811-3 Magok-dong, Gangseo-gu, Seoul, South Korea",No Description
+144083418,노적봉폭포공원,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Ansan,,GCJ02,37.316389,126.855,"Seongpo-dong, Sangnok-gu, Ansan-si, Gyeonggi-do",No Description
+136250694,Gana Art Park,4.8,https://ak-d.tripcdn.com/images/100r1g000001h0b7u9D17.jpg,Yangju,['Art Museums'],GCJ02,37.725654,126.949718,"8 Iryeong-ri, Jangheung-myeon, Yangju-si, Gyeonggi-do, Korea Selatan",No Description
+61998096,Mokdong Stadium,0.0,https://ak-d.tripcdn.com/images/0ww1o12000952kdavF778.jpg,Seoul,['Stadiums'],GCJ02,37.530558,126.88304,"939, Anyangcheon-ro, Yangcheon-gu, Seoul 07990, South Korea",No Description
+147347270,Gwan-Eumsa,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.467584,126.976494,"109-80 Seungbang 1-gil, Gwanak-gu, Seoul, South Korea",No Description
+137172647,Sole Ecological Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/07/Cghzf1W7H_mAOouUAAA0-J5t66I153.jpg,Seoul,['City Parks'],GCJ02,37.659329,127.029446,"33 Sirubong-ro 6-gil, Dobong-gu, Seoul, South Korea",No Description

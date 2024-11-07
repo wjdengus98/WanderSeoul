@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+137343951,Samseongsan gukgibong,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M06/C5/07/Cghzf1W7H_mADCqVAAA3sUc-vEQ718.jpg,Anyang,['Nature Reserves'],GCJ02,37.431078,126.937874,"South Korea, Gyeonggi-do, Anyang-si, Manan-gu, 석수1동 4-1",No Description
+142811496,CJ 토월극장,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.478864,127.01406,"2406 Nambusunhwan-ro, Seocho-gu, Seoul, South Korea",No Description
+147623312,Villa de GD Cheongdam,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.520151,127.055437,"519 Hakdong-ro, Gangnam-gu, Seoul",No Description
+147566182,The climb hongdaejeom,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.554688,126.9203,"South Korea, Seoul, Mapo-gu, 353-5 경남관광빌딩 2층",No Description
+65178346,Union Tower,5.0,https://ak-d.tripcdn.com/images/0105a12000bbdp152AAE0.jpg,Hanam,['Observation Decks'],GCJ02,37.547145,127.220474,"26-2, Sinchang-dong, Henan, Gyeonggi-do",No Description
+142802061,Film Forum,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.563757,126.944112,"527 Seongsan-ro, Seodaemun-gu, Seoul, South Korea",No Description
+65177545,Special Visit to Gyeonghoeru Pavilion,3.0,https://ak-d.tripcdn.com/images/ww0u1e000001f547r8E78.jpg,Seoul,['Palaces'],GCJ02,37.579459,126.978722,"1-1, Sejong-ro, Jongno-gu, Seoul, Gyeongbokgung Palace",No Description
+137114947,Yongdo Arboretum,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M08/C4/B0/CghzgVW7H_mAH93mAAA_kl5amJk965.jpg,Siheung-si,['Botanical Gardens'],GCJ02,37.419132,126.826501,"32 Batdwi-gil, 매화동 Siheung-si, Gyeonggi-do, South Korea",No Description
+148809483,"Bukhansan National Park, Ppallaegol Park Management Post",0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.627556,127.008687,"Suyu-dong, Gangbuk-gu, Seoul",No Description
+39519929,Sungkok Art Museum,5.0,https://ak-d.tripcdn.com/images/100a0p000000fhix18AE3.jpg,Seoul,['Art Museums'],GCJ02,37.573116,126.969764,"42, Gyeonghuigung-gil, Jongno-gu",No Description

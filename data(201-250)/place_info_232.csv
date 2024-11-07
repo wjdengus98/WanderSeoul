@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+142803989,Bucheon Byeolbitmaru Library,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M01/AF/63/CghzfFW7IASAT10JAAA6hcRCmrA034.jpg,Bucheon-si,['Libraries'],GCJ02,37.466696,126.821209,"772 Okgil-dong, Sosa-gu, Bucheon-si, Gyeonggi-do, South Korea",No Description
+146716639,黄金スパ / ファングムスパ,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.571008,127.020348,"2388 Hwanghak-dong, Jung-gu, Seoul",No Description
+136789130,Ilwol Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/07/Cghzf1W7H_mAOouUAAA0-J5t66I153.jpg,Suwon,"['City Parks', 'Campgrounds']",GCJ02,37.286279,126.97685,"453-1 Cheoncheon-dong, Jangan-gu, Suwon-si, Gyeonggi-do, South Korea",No Description
+137687390,On-Onsa,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M08/FC/24/CghzflW7IACAHgzUAAAvGcMqieg905.jpg,Gwacheon,['Historical Sites'],GCJ02,37.436384,126.9925,"107-5 Gwanmun-dong, Gwacheon-si, Gyeonggi-do, South Korea",No Description
+39796554,Yeongyeongdang,0.0,https://ak-d.tripcdn.com/images/100j1f000001gpszfE69D.jpg,Seoul,['Historical Sites'],GCJ02,37.5833,126.992341,"Inside the back yard of Changde Palace, 99 Ligu Road, Jongno-gu",No Description
+143781132,Cheonglyangsan,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Incheon,,GCJ02,37.420422,126.657673,"산66-14 Ongnyeon-dong, Yeonsu-gu, Incheon",No Description
+149293201,2024 LEE SEUNGHOON FAN CONCERT ［OFFLINE LIVE］,0.0,https://ak-d.tripcdn.com/images/0101q12000gb4gext8F49.gif,Seoul,['Concerts'],GCJ02,37.551125,126.914292,"Shinhan pLay Square 490 Seogyo-dong, Mapo-gu, Seoul, Korea",No Description
+137590897,Mudang-Gol,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.467047,126.969326,"South Korea, Seoul, Gwanak-gu, 인헌동 산16",No Description
+146358407,F45 Training Gangnam,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.50625,127.058417,"Zero Building B1, 14 Teheran-ro 84-gil, Seoul, South Korea",No Description
+147121693,John frankl jiu jitsu sinsa,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.518449,127.021331,"53 Apgujeong-ro 2-gil, Sinsa-dong, Gangnam-gu, Seoul, South Korea",No Description

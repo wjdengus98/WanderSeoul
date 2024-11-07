@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+39519936,The Museum of Photography Seoul,4.4,https://ak-d.tripcdn.com/images/100g1900000165htu1741.jpg,Seoul,['Art Museums'],GCJ02,37.516562,127.113945,"South Korea, Seoul, Songpa-gu, Wiryeseong-daero, 14Hanmi Tower19th floor",No Description
+147089921,Secret Chamber,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.583671,127.000343,"South Korea, Seoul, Jongno-gu, Changgyeonggung-ro, 258-12 2 층",No Description
+146368378,Music Space Camerata,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Paju-si,,GCJ02,37.789928,126.69954,"83 Heyrimaeul-gil, Tanhyeon-myeon, Paju-si, Gyeonggi-do, South Korea",No Description
+137286918,National Meteorological Museum of Korea,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M08/AE/87/CghzfVW7IAOAbNKNAABCrs7mUrY425.jpg,Seoul,['Museums'],GCJ02,37.571409,126.966296,"52 Songwol-gil, Jongno-gu, Seoul",No Description
+147337352,Humming Way,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.502957,126.980723,"884 반포본동 Seocho-gu, Seoul, South Korea",No Description
+147524765,GBN Live House,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.5137,126.896508,"54-41 Mullae-dong 3(sam)-ga, Yeongdeungpo-gu, Seoul",No Description
+146704399,Gaeunsa,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.590032,127.028112,"73 Gaeunsa-gil, Seongbuk-gu, Seoul, South Korea",No Description
+146724249,Cheonjiyeon,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.523402,127.028577,"838 Nonhyeon-ro, Gangnam-gu, Seoul",No Description
+65179336,Wowsan Park,0.0,https://ak-d.tripcdn.com/images/0106y1200086d83485EA0.png,Seoul,"['Theme Parks', 'Recreation Centers']",GCJ02,37.551969,126.929844,"28-216 Changjeon-dong, Mapo-gu, Seoul, South Korea",No Description
+147376783,Seoul Grand Park Office,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Gwacheon,,GCJ02,37.436249,127.014143,"102 Daegongwongwangjang-ro, Gwacheon-si, Gyeonggi-do, South Korea",No Description

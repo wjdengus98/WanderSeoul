@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+147544499,The Maze Gangnam,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.501762,127.027416,"Seoul, Gangnam-gu, Yeoksam-dong, Bongeunsa-ro 18-gil, 76 스타팰리스 4층",No Description
+142933488,THE PAGE GALLERY,0.0,https://ak-d.tripcdn.com/images/0ww3m12000ddwk1k5A72E.jpg,Seoul,['Art Museums'],GCJ02,37.545469,127.042667,"Seoul, Seongdong-gu, 성수1가제2동 Seoulsup 2-gil, 32-14 갤러리아포레 G205",No Description
+147129482,Nokbeondong Neighborhood Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.603502,126.932029,"34-7 Eunpyeong-ro 21-gil, Eunpyeong-gu, Seoul",No Description
+147327894,Galwool Neighborhood Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.666941,127.060986,"Sanggye-dong, Nowon-gu, Seoul",No Description
+146467844,Gimpo Hangang Sports Center,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Gimpo-si,,GCJ02,37.647602,126.638149,"419-37 Gimpohangang 4-ro, 김포2동 Gimpo-si, Gyeonggi-do, South Korea",No Description
+149292384,Play 〈TEBAS LAND〉,0.0,https://ak-d.tripcdn.com/images/0103212000gajwkub88A4.jpg,Seoul,"['Theater', 'Stage Drama']",GCJ02,37.565929,127.014859,"Chungmu Arts Center, Seoul, Korea",No Description
+146584299,Seongjuam,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.457462,126.942757,"South Korea, Seoul, Gwanak-gu, 관악산나들길 138",No Description
+147652741,유타BK,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.592541,127.017087,"1-2 Dongseon-dong 1(il)-ga, Seongbuk-gu, Seoul, South Korea",No Description
+69928767,Under Stand Avenue,5.0,https://ak-d.tripcdn.com/images/0ww551200094a1nei126A.jpg,Seoul,['Historical Architectures'],GCJ02,37.543546,127.043629,"63, Wangsimni-ro, Seongdong-gu, Seoul 04769, South Korea",No Description
+137882928,Myeongdong Night Market,4.3,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.561518,126.984891,"66-13 Chungmuro 2(i)-ga, Jung-gu, Seoul, South Korea",No Description

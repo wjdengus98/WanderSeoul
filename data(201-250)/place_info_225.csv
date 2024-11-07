@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+137648882,Seorae Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/07/Cghzf1W7H_mAOouUAAA0-J5t66I153.jpg,Seoul,['City Parks'],GCJ02,37.501571,127.002969,"Banpo-dong, Seocho-gu, Seoul, South Korea",No Description
+147426217,Square Gym,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.532291,126.8999,"Seoul, South Korea",No Description
+55855526,Blue Ocean,0.0,https://ak-d.tripcdn.com/images/0ww5312000ckpmddk73F1.jpg,Incheon,['Spas'],GCJ02,37.394883,126.650117,"3-2 Songdo-dong, Yeonsu-gu, Incheon, South Korea",No Description
+146438106,Dongjak Samil Swimming Pool,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.487199,126.974473,"103 Sadang-ro 27-gil, Sadang-dong, Dongjak District, Seoul",No Description
+133527221,Hanboknam,0.0,https://ak-d.tripcdn.com/images/0ww29120009c4ddq70D9B.jpg,Seoul,['Entertainment Centers'],GCJ02,37.58027,126.981875,"109 Sogyeok-dong, Jongno-gu, Seoul",No Description
+147455683,Jinseonmi-gwan,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.563451,126.947612,"52 Ewhayeodae-gil, Seodaemun-gu, Seoul, South Korea",No Description
+147613344,Bugaksan Cheongundae,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.59484,126.97551,"South Korea, Seoul, Jongno-gu, 부암동",No Description
+142401858,Cheondogyo Central Cathedral,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/AE/62/CghzgFW7IBCAHuSzAAAx3FcjVOM139.jpg,Seoul,['Churches and Cathedrals'],GCJ02,37.575173,126.985746,"457 Samil-daero, Jongno-gu, Seoul, South Korea",No Description
+141780803,Masjid Al-Falah,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.513106,126.914762,"186-356 Singil-dong, Yeongdeungpo-gu, Seoul",No Description
+146633889,GOGOS,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.55022,126.922295,"12 Wausan-ro 17-gil, Mapo-gu, Seoul",No Description

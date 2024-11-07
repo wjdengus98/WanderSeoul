@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+136063570,MED AROMA,0.0,https://ak-d.tripcdn.com/images/0ww5r12000apjjx5x33BE.jpg,Seoul,,GCJ02,37.567117,126.979364,"South Korea, Seoul, Jung-gu, Mugyo-ro, 14 3층",No Description
+143864780,Gil-dong Catholic Church,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/AE/62/CghzgFW7IBCAHuSzAAAx3FcjVOM139.jpg,Seoul,['Churches and Cathedrals'],GCJ02,37.544884,127.148725,"296 Myeongil-ro, Gangdong-gu, Seoul",No Description
+146477865,LOTTE CINEMA Sindaebang,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.48642,126.905108,"606 Siheung-daero, Dongjak-gu, Seoul, South Korea",No Description
+146368362,"King, sauna sauna",0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Gimpo-si,,GCJ02,37.625578,126.703939,"219-5 Bukbyeon-dong, Gimpo-si, Gyeonggi-do, South Korea",No Description
+142867968,Ewha Womans University Central Library,5.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M01/AF/63/CghzfFW7IASAT10JAAA6hcRCmrA034.jpg,Seoul,['Libraries'],GCJ02,37.561979,126.949195,"Seoul, 특별시 Chunghyeon-dong, 이화여자대학교 중앙도서관",No Description
+147613321,Hangang Central Park,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Gimpo-si,['Nighttime sightseeing'],GCJ02,37.64222,126.67452,"40 Chodang-ro, 장기동 Gimpo-si, Gyeonggi-do, South Korea",No Description
+137286965,Yumyeongsan Nature Recreation Forest,5.0,https://ak-d.tripcdn.com/images/0104j12000c6mknk2D90E.png,Gapyeong-gun,['Campgrounds'],GCJ02,37.592639,127.491136,"Gapyeong-gun, South Korea",No Description
+65177640,Woori Bank Bank History Museum,4.0,https://ak-d.tripcdn.com/images/0104a12000a4lvwvkBF1E.png,Seoul,['Museums'],GCJ02,37.559401,126.981733,"203 Hoehyeon-dong 1st Street, Jung-gu, Seoul, Bank B1F",No Description
+147436143,Club Temple,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.554474,126.929583,"South Korea, Seoul, Mapo-gu, Seogyo-dong, Wausan-ro, 147 1 b1",No Description
+149297743,조엘 폼므라 ‘이야기와 전설’,0.0,https://ak-d.tripcdn.com/images/0105s12000gcycrprBB4E.jpg,Seoul,"['Theater', 'Stage Drama']",GCJ02,37.565087,126.829593,LG아트센터 서울 LG SIGNATURE 홀,No Description

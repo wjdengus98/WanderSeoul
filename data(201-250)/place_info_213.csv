@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+55831295,Hyundai Card Music Library,5.0,https://ak-d.tripcdn.com/images/0ww0412000ckpe6r3804E.jpg,Seoul,['Libraries'],GCJ02,37.536585,127.000666,"246 Itaewon-ro, Yongsan-gu, Seoul 04400, right","Although the space is not as large as other libraries, there is a one-of-a-kind atmosphere to enjoy the goodness of music."
+137898806,Gyeyang Kkotmaru,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/07/Cghzf1W7H_mAOouUAAA0-J5t66I153.jpg,Incheon,['City Parks'],GCJ02,37.535455,126.746685,"106-1 Seoun-dong, Gyeyang-gu, Incheon, South Korea",No Description
+142516197,Chung-Ang University Library,5.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M01/AF/63/CghzfFW7IASAT10JAAA6hcRCmrA034.jpg,Seoul,['Libraries'],GCJ02,37.504701,126.958044,"84 Heukseok-ro, Heukseok-dong, Dongjak-gu, Seoul",No Description
+141301589,Art Center Incheon,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Incheon,,GCJ02,37.393359,126.626968,"222 Art center-daero, Songdo-dong, Yeonsu-gu, Incheon",No Description
+142718895,Seogang Library,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M01/AF/63/CghzfFW7IASAT10JAAA6hcRCmrA034.jpg,Seoul,['Libraries'],GCJ02,37.547675,126.932058,"Seoul, South Korea",No Description
+147227368,Mega Box Dongtan,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Hwaseong-si,,GCJ02,37.204543,127.072796,"11 Dongtanjiseong-ro, Hwaseong-si, Gyeonggi-do",No Description
+138512323,Gwan-Agsan,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.451078,126.927181,"산96 Siheung-dong, Geumcheon-gu, Seoul, South Korea",No Description
+149291190,Jamie xx Live in Seoul,0.0,https://ak-d.tripcdn.com/images/0106412000dwzy3qw8AB3.jpg,Seoul,['Concerts'],GCJ02,37.545769,127.107881,"Yes24 Live Hall, Seoul, Korea",No Description
+149293150,2024 KIM MINJU FANMEETING [Blooming Story],0.0,https://ak-d.tripcdn.com/images/0106g12000gb0n8gf50F6.png,Seoul,['Concerts'],GCJ02,37.561424,126.946973,"Ewha Womans University Samsung Hall Sinchon-dong, Seoul, Korea",No Description
+148891383,THE COMPLETE PERFORMANCE OF PANSORI,0.0,https://ak-d.tripcdn.com/images/0101n12000fcwqeg6DA3A.gif,Seoul,['Dance Drama'],GCJ02,37.55286,126.999813,"59 , Jangchungdan-ro , Jung-gu , Seoul",No Description

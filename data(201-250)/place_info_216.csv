@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+61891994,Hadong Plum Street,0.0,https://ak-d.tripcdn.com/images/0ww5b12000as00u0a17DF.jpg,Seoul,"['City Parks', 'Featured Neighborhoods']",GCJ02,37.568167,127.047616,"Yongdap-dong, Seongdong-gu, Seoul, South Korea",No Description
+61997975,Hyundae Sauna,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M0B/AE/60/CghzgFW7H_-AP-y1AAAqT8fFgY0794.jpg,Seoul,['Spas'],GCJ02,37.533843,126.994737,"131-36 Itaewon-dong, Yongsan-gu, Seoul, South Korea",No Description
+144859419,Hallim Gwangneung CC,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Namyangju-si,,GCJ02,37.758643,127.238612,"280 Parya-ro, Jinjeop-eup, Namyangju-si, Gyeonggi-do, South Korea",No Description
+142467837,Manhae Memorial Hall,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M03/AF/64/CghzfFW7IBCAUbLaAAAlnuKOkAQ344.jpg,Gwangju,['Memorial Halls'],GCJ02,37.477299,127.180813,경기도 광주시 중부면 산성리 912-1,No Description
+39185023,Sajeongjeon,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M08/FC/24/CghzflW7IACAHgzUAAAvGcMqieg905.jpg,Seoul,['Historical Sites'],GCJ02,37.579089,126.977044,"1-56 Sejongno, Jongno-gu, Seoul, South Korea",No Description
+146616378,The Classic,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.56046,127.041029,"South Korea, Seoul, Seongdong-gu, Haengdang-dong, 번지 두성빌딩 지하 3-29 1층",No Description
+95997702,Mullae Neighborhood Park,3.0,https://ak-d.tripcdn.com/images/01050120009ck8yfy07E6.png,Seoul,['City Parks'],GCJ02,37.516778,126.893968,"66, Mullae-dong 3-ga, Yeongdeungpo-gu, Seoul",No Description
+147339382,Jeongbeopsa,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M06/FC/24/CghzflW7H_iATdynAAA-FlXAIeA738.jpg,Seoul,,GCJ02,37.60167,126.990886,"44 Daesagwan-ro 13-gil, Seongbuk-gu, Seoul, South Korea",No Description
+142718872,Gallery 1898,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/C5/08/Cghzf1W7IAOADod_AAA1Xhhuy-U142.jpg,Seoul,['Art Museums'],GCJ02,37.564082,126.986694,"1-19 Myeong-dong 2(i)-ga, Jung-gu, Seoul, South Korea",No Description
+147507314,CrossFit SteamPunk (Sinchon),0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.556597,126.934376,"South Korea, Seoul, Seodaemun-gu, 62-22 발리빌딩 B1F",No Description

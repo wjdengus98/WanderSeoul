@@ -1,0 +1,11 @@
+place_id,place_name,comm_score,cover_image_url,location,tag_list,coordinate_type,latitude,longitude,address,description
+141244779,Vaunce Super Park - Suwon,0.0,https://ak-d.tripcdn.com/images/0104u12000cj1fkj93CF9.png,Yongin-si,,GCJ02,37.332204,127.161691,"3M floor, Phantasiam, 1566 Deokyeong-daero, Yeongtong-gu, Suwon-si, Gyeonggi-do",No Description
+146961318,D-PALACE Sportsclub,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.56867,126.971991,"South Korea, Seoul, Jongno-gu, Sajik-dong, Saemunan-ro 2-gil, 10 B2 디팰리스 스포츠클럽",No Description
+65176786,Chemulpo Club,0.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M08/AE/87/CghzfVW7IAOAbNKNAABCrs7mUrY425.jpg,Incheon,"['Museums', 'Historical Architectures']",GCJ02,37.474614,126.622514,"11-1, Songhe-dong 1st, Jung-gu, Incheon",No Description
+143869844,Poidong Catholic Church,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/AE/62/CghzgFW7IBCAHuSzAAAx3FcjVOM139.jpg,Seoul,['Churches and Cathedrals'],GCJ02,37.472034,127.048162,"28 Nonhyeon-ro 5-gil, Seocho-gu, Seoul",No Description
+146765107,Daenglohol,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.58182,127.00371,"50 Daehak-ro 12-gil, Jongno-gu, Seoul",No Description
+136261663,Sunny's Dining,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.54339,126.952935,"Metro The O'Ville 1801, 199 Baekbeom-ro, Singongdeok-dong, Mapo-gu, Seoul",No Description
+142726692,Eunpyeong New Town Municipal Library,5.0,https://ak-d.tripcdn.com/images/fd/tg/g1/M01/AF/63/CghzfFW7IASAT10JAAA6hcRCmrA034.jpg,Seoul,['Libraries'],GCJ02,37.637234,126.933097,"111-51 Jingwan 2-ro, Eunpyeong-gu, Seoul, South Korea",No Description
+142924128,Gui-dong Catholic Church,0.0,https://ak-d.tripcdn.com/images/fd/tg/g2/M02/AE/62/CghzgFW7IBCAHuSzAAAx3FcjVOM139.jpg,Seoul,['Churches and Cathedrals'],GCJ02,37.546678,127.086237,"8 Jayang-ro 33-gil, Gwangjin-gu, Seoul, South Korea",No Description
+65177655,Ansan Reed Marsh Park,0.0,https://ak-d.tripcdn.com/images/100j1g000001h340yEFEE.jpg,Ansan,"['Caves', 'Theme Parks']",GCJ02,37.273114,126.839231,"820-116 Haean-ro, Sangnok-gu, Ansan-si, Gyeonggi-do, South Korea",No Description
+146288623,Hyundai Yacht,0.0,https://ak-d.tripcdn.com/images/0102u1200086k28vc0A5C.jpg,Seoul,,GCJ02,37.506705,126.984834,"South Korea, KR 서울특별시 서초구 현대요트서울지점 더리버",No Description

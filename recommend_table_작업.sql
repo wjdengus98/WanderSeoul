@@ -29,6 +29,29 @@ CREATE TABLE `place_review_temp` (
 
 -- * temp table 생성 후 temp_data_save.ipynb 수행 - 위의 temp table 에 데이터 생성
 
+-- user_name 이 없는 데이터에 user_name 생성
+WITH t_table AS (
+SELECT rev.place_id
+      ,rev.content
+      ,rev.user_rating
+      ,rev.create_time
+      ,concat('Anonymous User', ROW_NUMBER() OVER (ORDER BY rev.create_time, rev.place_id)) AS user_name
+FROM   (SELECT DISTINCT prt.place_id
+              ,prt.content
+              ,prt.user_rating
+              ,prt.create_time
+        FROM   place_review_temp prt
+        WHERE  prt.user_name IS NULL
+        ORDER BY prt.create_time) rev
+)
+UPDATE place_review_temp prt1
+INNER JOIN t_table t
+      ON   prt1.place_id = t.place_id
+      AND  prt1.user_rating = t.user_rating
+      AND  prt1.create_time = t.create_time
+      AND  ifnull(prt1.content, '') = ifnull(t.content, '')
+SET    prt1.user_name = t.user_name
+;
 
 -- 생성할 테이블
 -- Location
@@ -270,7 +293,7 @@ ORDER BY place_id
 
 -- Attraction reviews
 INSERT INTO tbl_attraction_reviews (place_id, user_id, content, user_rating, create_date)
-SELECT prt.place_id
+SELECT DISTINCT prt.place_id
       ,tu.user_id
       ,prt.content
       ,prt.user_rating

@@ -1,22 +1,25 @@
-import React, { useState, useEffect } from "react";
-import { useNavigate } from "react-router-dom";
+import React, { useState, useEffect } from 'react'; // useEffect 추가
+import { useNavigate } from 'react-router-dom';
 
+// 더미 사용자 데이터
 const User = {
-  email: "UserID@gmail.com",
-  pw: "usertest123!!"
+  email: 'UserID@gmail.com',
+  pw: 'usertest123!!',
 };
 
-export default function Login({ closeModal }) {
-  const navigate = useNavigate();
-  const [email, setEmail] = useState("");
-  const [pw, setPw] = useState("");
+export default function Login({ onLoginSuccess }) {
+  const [email, setEmail] = useState('');
+  const [pw, setPw] = useState('');
   const [emailValid, setEmailValid] = useState(false);
   const [pwValid, setPwValid] = useState(false);
   const [notAllow, setNotAllow] = useState(true);
 
+  const navigate = useNavigate();
+
   const handleEmail = (e) => {
     setEmail(e.target.value);
-    const regex = /^(([^<>()\[\].,;:\s@"]+(\.[^<>()\[\].,;:\s@"]+)*)|(".+"))@(([^<>()[\].,;:\s@"]+\.)+[^<>()[\].,;:\s@"]{2,})$/i;
+    const regex =
+      /^(([^<>()\[\].,;:\s@"]+(\.[^<>()\[\].,;:\s@"]+)*)|(".+"))@(([^<>()[\].,;:\s@"]+\.)+[^<>()[\].,;:\s@"]{2,})$/i;
     if (regex.test(email)) {
       setEmailValid(true);
     } else {
@@ -37,21 +40,22 @@ export default function Login({ closeModal }) {
 
   const onClickConfirmButton = () => {
     if (email === User.email && pw === User.pw) {
-      alert("로그인에 성공했습니다");
-      navigate("/");
-      closeModal(); // 로그인 성공 후 모달 닫기
+      alert('로그인에 성공했습니다');
+      onLoginSuccess(); // 로그인 성공 시 상태 변경
+      navigate('/'); // 로그인 성공 후 메인 페이지로 리다이렉트
     } else {
-      alert("등록되지 않은 회원입니다.");
+      alert('등록되지 않은 회원입니다.');
     }
   };
 
+  // 로그인 버튼 비활성화 조건
   useEffect(() => {
     if (emailValid && pwValid) {
       setNotAllow(false);
       return;
     }
     setNotAllow(true);
-  }, [emailValid, pwValid]);
+  }, [emailValid, pwValid]); // 의존성 배열 추가
 
   return (
     <div className="login-page">
@@ -72,7 +76,7 @@ export default function Login({ closeModal }) {
           {!emailValid && email.length > 0 && <div>올바른 이메일을 입력하세요.</div>}
         </div>
 
-        <div style={{ marginTop: "26px" }} className="inputTitle">
+        <div style={{ marginTop: '26px' }} className="inputTitle">
           비밀번호
         </div>
         <div className="inputWrap">

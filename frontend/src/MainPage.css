@@ -1,0 +1,127 @@
+/* MainPage.css */
+
+/* 사이드바 토글 버튼 */
+.sidebar-toggle-button {
+  padding: 10px 20px; /* 버튼 안쪽 여백 */
+  background-color: #007bff; /* 버튼 배경색 */
+  color: white; /* 버튼 글자색 */
+  border: none; /* 버튼 테두리 제거 */
+  border-radius: 5px; /* 버튼 모서리 둥글게 */
+  cursor: pointer; /* 마우스 포인터 변경 */
+}
+
+/* 사이드바 */
+.sidebar {
+  padding: 10px; /* 사이드바 패딩 */
+  border-radius: 5px; /* 모서리 둥글게 */
+  position: absolute; /* 절대 위치 */
+  top: 60px; /* 상단 여백 */
+  right: 20px; /* 오른쪽 여백 */
+  z-index: 10; /* 다른 요소 위로 */
+}
+
+.sidebar h3 {
+  margin-bottom: 20px;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar li {
+  margin-bottom: 10px;
+}
+
+.sidebar input {
+  margin-right: 10px;
+}
+
+/* 콘텐츠 영역 */
+.content {
+  margin-top: 50px;
+  width: 80%;
+}
+
+.tourist-spot-list {
+  list-style: none;
+  padding: 0;
+}
+
+.tourist-spot-list li {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #fff;
+}
+.main-page {
+  width: 100%;
+  height: 100vh; /* 전체 화면 높이 */
+  background-size: cover; /* 배경 이미지 크기 조정 */
+  background-position: center; /* 배경 중앙 정렬 */
+  position: relative; /* 자식 요소의 절대 위치 지정 가능 */
+}
+
+.overlay {
+  position: absolute; /* 절대 위치 */
+  top: 0; /* 상단 정렬 */
+  left: 0; /* 왼쪽 정렬 */
+  right: 0; /* 오른쪽 정렬 */
+  bottom: 0; /* 하단 정렬 */
+  display: flex; /* 플렉스 박스 사용 */
+  flex-direction: column; /* 세로로 정렬 */
+  align-items: center; /* 가운데 정렬 */
+  justify-content: center; /* 중앙 정렬 */
+  color: white; /* 글자색 */
+  padding: 20px; /* 패딩 추가 */
+}
+
+.auth-buttons {
+  position: absolute; /* 절대 위치 */
+  top: 20px; /* 상단 여백 */
+  right: 20px; /* 오른쪽 여백 */
+  display: flex; /* 플렉스 박스 사용 */
+  gap: 10px; /* 버튼 간 간격 */
+}
+
+.search-input {
+  padding: 10px; /* 안쪽 여백 */
+  width: 300px; /* 검색창 너비 */
+  margin: 20px 0; /* 위 아래 여백 */
+}
+
+.search-button {
+  padding: 10px 20px; /* 버튼 안쪽 여백 */
+  background-color: #007bff; /* 버튼 배경색 */
+  color: white; /* 버튼 글자색 */
+  border: none; /* 버튼 테두리 제거 */
+  border-radius: 5px; /* 버튼 모서리 둥글게 */
+  cursor: pointer; /* 마우스 포인터 변경 */
+}
+
+.login-button,
+.signup-button {
+  padding: 10px 20px; /* 버튼 안쪽 여백 */
+  background-color: #007bff; /* 버튼 배경색 */
+  color: white; /* 버튼 글자색 */
+  border: none; /* 버튼 테두리 제거 */
+  border-radius: 5px; /* 버튼 모서리 둥글게 */
+  cursor: pointer; /* 마우스 포인터 변경 */
+}
+
+.login-button:hover,
+.signup-button:hover,
+.search-button:hover {
+  background-color: #0056b3; /* 마우스 오버 시 배경색 변화 */
+}
+
+.sidebar-toggle-button {
+  padding: 10px 20px; /* 버튼 안쪽 여백 */
+  background-color: #007bff; /* 버튼 배경색 */
+  color: white; /* 버튼 글자색 */
+  border: none; /* 버튼 테두리 제거 */
+  border-radius: 5px; /* 버튼 모서리 둥글게 */
+  cursor: pointer; /* 마우스 포인터 변경 */
+  left: 30px;
+}

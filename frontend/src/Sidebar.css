@@ -1,0 +1,120 @@
+.sidebar {
+    width: 250px; /* 사이드 바의 넓이 */
+    /* background-color: #f0f0f0; 태그스 배경색상 설정 */
+    padding: 15px; /* 안쪽 여백 */
+    border-radius: 5px; /* 모서리 둥글게 */
+}
+
+/* .sidebar button {
+  display: block;
+  margin: 5px 0;
+  padding: 10px;
+  border: none;
+  background-color: #4285f4;
+  color: white;
+  cursor: pointer;
+}
+
+.sidebar button:hover {
+  background-color: #0056b3;
+} */
+
+/* .sidebar {
+  position: absolute;
+  left: 0;
+  top: 60px; /* 네비게이션 바 아래에 위치 *\
+  width: 200px;
+  /* background-color: #f4f4f4; *\
+  padding: 15px;
+  border-right: 1px solid #ccc;
+  z-index: 1000; /* 사이드바가 다른 요소 위에 표시되도록 *\
+} */
+
+.toggle-title {
+    cursor: pointer; /* 마우스 포인터 변경 */
+    color: #007bff; /* 제목 색상 */
+    margin-bottom: 10px; /* 제목 아래 여백 */
+}
+
+.toggle-button {
+    display: flex;
+    border-radius: 5px;
+    position: absolute;
+    color: white;
+    top: -25px;
+    left: 30px;
+}
+
+.sidebar h2 {
+    font-size: 18px; /* 제목 크기 */
+}
+
+.sidebar ul {
+    list-style-type: none; /* 기본 글머리 기호 제거 */
+    padding: 0; /* 기본 패딩 제거 */
+    /* color: #c56205; */
+}
+
+.sidebar li {
+    margin: 5px 0; /* 항목 간 여백 */
+    cursor: pointer; /* 마우스 포인터 변경 */
+    transition: background-color 0.3s; /* 배경색 전환 효과 */
+}
+
+.sidebar li:hover {
+    background-color: #e0e0e0; /* 마우스 오버 시 배경색 변경 */
+}
+
+.sidebar li.selected {
+    background-color:  #e0e0e0; /* 선택된 항목의 배경색을 진하게 */
+    color: black; /* 선택된 항목 글자색 */
+}
+
+/* .sidebar-content {
+    margin-bottom: 10px;
+    padding-left: 20px;
+    text-align: left;
+    /* background-color: #302c3a; *\
+} */
+
+.header-image {
+    width: 150%; /* 이미지 너비를 사이드 바 너비에 맞춤 */
+    height: auto; /* 비율 유지 */
+    border-radius: 5px; /* 모서리 둥글게 */
+    margin-bottom: 5px; /* 이미지 아래 여백 */
+}
+
+.tag {
+    font-size: 12px; /* 태그 크기 */
+    color: #ffcc00; /* 태그 색상 */
+}
+
+.sidebar-pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    color:black;
+}
+
+.sidebar-pagination button {
+    margin: 0 7px;
+    padding: 1px 4px;
+    color: black;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.recommend {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.recommend button {
+    padding: 3px 5px;
+    color: white;
+    background-color: #4285f4; /* 기본 배경색 */
+    cursor: pointer;
+    border-radius: 3px; /* 모서리 둥글게 */
+}

@@ -1,0 +1,49 @@
+/* .navbar {
+    display: flex;
+    flex-direction: column; /* 세로 방향으로 정렬 *\
+    align-items: center; /* 가운데 정렬 *\
+    padding: 10px; /* 패딩 추가 *\
+    background-color: #f0f0f0; /* 배경색 *\
+}
+
+.header-image {
+    width: 100%; /* 이미지 너비를 네비게이션 바 너비에 맞춤 *\
+    height: auto; /* 비율 유지 *\
+    border-radius: 5px; /* 모서리 둥글게 *\
+    margin-bottom: 10px; /* 이미지 아래 여백 *\
+} */
+
+.nav-buttons {
+    display: flex;
+    /*flex-direction: column; /* 버튼을 세로로 정렬 *\
+    gap: 10px; /* 버튼 간 간격 */
+    justify-content: flex-end; /* 오른쪽 정렬 */
+    margin-top: -40px; /* 이미지와 겹치지 않도록 조정 */
+}
+
+.nav-text {
+    cursor: pointer; /* 마우스 포인터 변경 */
+    color: #007bff; /* 텍스트 색상 */
+    font-size: 16px; /* 텍스트 크기 */
+    text-decoration: underline; /* 밑줄 추가 */
+    margin-left: 15px; /* 버튼 간 간격 */
+}
+
+.nav-text:hover {
+    color: #0056b3; /* 마우스 오버 시 색상 변경 */
+}
+
+/* .login-button,
+.sidebar-button {
+    padding: 10px 20px; /* 버튼 안쪽 여백 *\
+    background-color: #007bff; /* 버튼 배경색 *\
+    color: white; /* 버튼 글자색 *\
+    border: none; /* 버튼 테두리 제거 *\
+    border-radius: 5px; /* 버튼 모서리 둥글게 *\
+    cursor: pointer; /* 마우스 포인터 변경 *\
+}
+
+.login-button:hover,
+.sidebar-button:hover {
+    background-color: #0056b3; /* 마우스 오버 시 배경색 변화 *\
+} */

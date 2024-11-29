@@ -1,0 +1,58 @@
+.attraction-page {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    background-color: rgba(240, 240, 240, 0.9);
+    text-decoration: none;
+    width: 60%;
+    overflow: auto;
+    height: 90vh;
+  }
+  
+  .attraction-header {
+    margin-bottom: 20px;
+  }
+  
+  .attraction-header h1 {
+    font-size: 30px;
+    color: black;
+  }
+  
+  .attraction-container {
+    overflow: auto;
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    /* justify-content: center; */
+  }
+  
+  .attraction-item {
+    margin: 10px;
+    text-align: center;
+  }
+
+  .attraction-item table {
+    width: 100%;
+    color: black;
+  }
+
+  .attraction-item table td {
+    padding: 5px;
+  }
+  
+  .attraction-pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    color: black;
+  }
+  
+  .attraction-pagination button {
+    margin: 0 7px;
+    padding: 1px 4px;
+    background: none;
+    border: none;
+    color: black;
+    cursor: pointer;
+  }

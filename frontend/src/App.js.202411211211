@@ -1,0 +1,154 @@
+import React, { useState, useEffect } from 'react';
+import { BrowserRouter as Router, Routes, Route, Link, useNavigate, useLocation } from 'react-router-dom';
+import axios from 'axios';
+import Login from './Login';
+import Signup from './Signup';
+import AttractionsByTags from './AttractionsByTags';
+import TouristSpotDetail from './TouristSpotDetail';
+import Sidebar from './Sidebar';
+import './App.css';
+
+function App() {
+  const [isLoggedIn, setIsLoggedIn] = useState(false);
+  const [searchQuery, setSearchQuery] = useState('');  // 검색어 상태 추가
+  const [sidebarOpen, setSidebarOpen] = useState(false); // 사이드바 상태 추가
+  const [showMore, setShowMore] = useState(false); // 하위 항목 표시 상태 추가
+  const [selectedTags, setSelectedTags] = useState([]);
+  const accessToken = localStorage.getItem('accessToken');
+  
+  const handleLogin = () => {
+    if (accessToken) {
+      setIsLoggedIn(true);
+    }
+  };
+  
+  const handleLogout = () => {
+    const isConfirmed = window.confirm('Would you like to log out?');
+    if (isConfirmed) {
+      setIsLoggedIn(false);
+      localStorage.removeItem('accessToken');
+    }
+  };
+
+  const handleToggleMore = () => {
+    setShowMore(!showMore);
+  }; // 하위 항목 토글 함수
+
+  useEffect(() => {
+    handleLogin();
+  }, [accessToken]);
+
+  return (
+    <Router>
+      <div className="App">
+        {/* 네비게이션 바 */}
+        <Navigation
+          isLoggedIn={isLoggedIn}
+          handleLogout={handleLogout}
+          setSearchQuery={setSearchQuery}
+          selectedTags={selectedTags}
+          setSelectedTags={setSelectedTags}
+        />
+        {/* 라우트 설정 */}
+        <Routes>
+          <Route path="/" element={<MainPage searchQuery={searchQuery} setSelectedTags={setSelectedTags} />} />
+          <Route path="/login" element={<Login onLoginSuccess={handleLogin} />} />
+          <Route path="/signup" element={<Signup setIsLoggedIn={setIsLoggedIn} />} />
+          <Route path="/attractionsByTags" element={<AttractionsByTags selectedTags={selectedTags} />} />
+          <Route path="/tourist-spot/:placeId" element={<TouristSpotDetail />} />
+        </Routes>
+      </div>
+    </Router>
+  );
+}
+
+function Navigation({ isLoggedIn, handleLogout, setSearchQuery, selectedTags, setSelectedTags }) {
+  const navigate = useNavigate();
+  const handleRecommendClick = () => {
+    if (selectedTags.length === 0) {
+      alert('Please select tag.');
+      return;
+    }
+    navigate('/attractionsByTags', { state: { selectedTags } });
+  };
+
+  return (
+    <div>
+      <Sidebar />
+      <div className="black-nav">
+        {/* <button onClick={handleRecommendClick}>Recommend</button> */}
+        {isLoggedIn ? (
+          <button onClick={handleLogout}>Logout</button>
+        ) : (
+          <div>
+            <Link to="/login">
+              <button>Login/Join</button>
+            </Link>
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}
+
+  // 메인 페이지 컴포넌트
+function MainPage({ searchQuery, setSelectedTags }) {
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
+  const [tags, setTags] = useState([]);
+  const location = useLocation();
+  
+  useEffect(() => {
+    setSelectedTags([]);
+  }, [location]);
+
+  const fetchTags = async () => {
+    try {
+      const response = await axios.get(`http://localhost:8000/tags`);
+
+      if (!response.status === 200) {
+        throw new Error('Failed to fetch tags');
+      }
+
+      setTags(response.data);
+    } catch (error) {
+      setError(error.response ? JSON.stringify(error.response.data.detail) : error.message);
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  useEffect(() => {
+    fetchTags();
+  }, []);
+
+  if (loading) return <p>Loading...</p>;
+  if (error) return <p>Error: {error}</p>;
+
+  const handleFilter = (tag) => {
+    setSelectedTags(prevTags => {
+      if (prevTags.includes(tag)) {
+        return prevTags.filter(t => t !== tag);
+      } else {
+        return [...prevTags, tag];
+      }
+    });
+  };
+
+  return (
+    <div>
+      <h1>Welcome to Seoul</h1>
+      {/* 필터 버튼들 */}
+      <div className="item-list">
+        {tags.map(tag => (
+          <div key={tag.tag_id} className="checkbox-button">
+            <input type="checkbox" id={tag.tag_id} onChange={() => handleFilter(tag.tag_id)} />
+            <label htmlFor={tag.tag_id} className="checkmark">{tag.tag_name}</label>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+export default App;

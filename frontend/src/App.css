@@ -1,0 +1,534 @@
+.App {
+  text-align: center;
+}
+
+.App {
+  text-align: bottom;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+/* App.css */
+
+/* 네비게이션 바 스타일 */
+.black-nav {
+  display: flex;
+  justify-content: right; /* 네비게이션 바 항목을 양쪽으로 배치 */
+  align-items: center; /* 수직 정렬 */
+  padding: 10px 20px; /* 패딩 추가 */
+  color: white; /* 텍스트 색상 */
+  position: absolute;
+  top: 30px;
+  right: 20px;
+}
+
+.black-nav .nav-text {
+  color: white; /* 로그인 및 회원가입 텍스트 색상 변경 (빨간색) */
+  text-decoration: none; /* 밑줄 제거 */
+}
+
+.black-nav .nav-text:hover {
+  text-decoration: underline; /* 호버 시 밑줄 추가 */
+}
+
+.black-nav button {
+  padding: 8px 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.black-nav button:hover {
+  background-color: #0056b3;
+}
+
+.review-summary {
+  display: flex; /* 플렉스 박스를 사용하여 요소를 나란히 배치 */
+  align-items: center; /* 수직 가운데 정렬 */
+  justify-content: space-between; /* 양쪽 끝으로 정렬 */
+  margin-bottom: 20px; /* 아래쪽 여백 추가 */
+}
+
+.write-review-button {
+  background-color: #007bff; /* 버튼 배경색 변경 (예: 녹색) */
+  color: white; /* 글자색 흰색 */
+  padding: 10px 15px; /* 패딩 추가 */
+  border: none; /* 기본 테두리 제거 */
+  border-radius: 5px; /* 둥근 모서리 */
+  cursor: pointer; /* 커서 포인터로 변경 */
+}
+
+.write-review-button:hover {
+  background-color: #0056b3; /* 버튼 호버 시 색상 변경 */
+}
+
+
+.review-list {
+  margin-top: 20px;
+}
+
+.review-item {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.review-form-page {
+  padding: 20px;
+}
+
+.review-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.review-form input,
+.review-form select,
+.review-form textarea {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.review-form button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+}
+
+.app {
+  display: flex;
+}
+
+/*.sidebar {
+  position: absolute;
+  left: 0;
+  top: 60px; /* 네비게이션 바 아래에 위치 *\
+  width: 200px;
+  padding: 15px;
+  /* border-right: 1px solid #ccc; *\
+  z-index: 1000; /* 사이드바가 다른 요소 위에 표시되도록 *\
+}*/
+.sidebar {
+  width: 250px; /* 사이드 바의 넓이 */
+  padding: 15px; /* 안쪽 여백 */
+  border-radius: 5px; /* 모서리 둥글게 */
+  margin-top: -40px; /* 상단 여백 조정 */
+  /* 기본 배경색 제거 */
+  background-color: transparent; /* 닫혔을 때 배경색 투명 */
+  transition: background-color 0.3s; /* 배경색 전환 효과 */
+}
+
+.sidebar.open {
+  background-color: rgba(240, 240, 240, 0.9); /* 열렸을 때의 배경색 */
+}
+
+.toggle-title {
+  cursor: pointer; /* 마우스 포인터 변경 */
+  color: black; /* 제목 색상 */
+  margin-bottom: 10px; /* 제목 아래 여백 */
+  font-size: 24px; /* 제목 크기 조정 */
+  text-align: left; /* 왼쪽 정렬 */
+}
+
+.toggle-symbol {
+  font-size: 50px; /* 기호 크기 */
+  display: inline-block;
+  margin-top: -10px; /* 기호 위치 조정 */
+  vertical-align: middle; /* 수직 정렬 */
+}
+
+.sidebar h2 {
+  font-size: 18px; /* 제목 크기 */
+  margin: 15px 0 10px; /* 제목 여백 */
+}
+
+.sidebar ul {
+  list-style-type: none; /* 기본 글머리 기호 제거 */
+  padding: 0; /* 기본 패딩 제거 */
+}
+
+.sidebar li {
+  margin: 5px 0; /* 항목 간 여백 */
+  cursor: pointer; /* 마우스 포인터 변경 */
+  transition: background-color 0.3s; /* 배경색 전환 효과 */
+  padding: 10px; /* 항목 안쪽 여백 추가 */
+  border-radius: 3px; /* 항목 모서리 둥글게 */
+  background-color: rgba(255, 255, 255, 0.8); /* 항목 배경색 추가 */
+}
+
+.sidebar li:hover {
+  background-color: #e0e0e0; /* 마우스 오버 시 배경색 변경 */
+}
+
+.sidebar li.selected {
+  background-color: #c0c0c0; /* 선택된 항목의 배경색을 진하게 */
+  color: black; /* 선택된 항목 글자색 */
+}
+
+.header-image {
+  width: 100%; /* 이미지 너비를 사이드 바 너비에 맞춤 */
+  height: auto; /* 비율 유지 */
+  border-radius: 5px; /* 모서리 둥글게 */
+  margin-bottom: 10px; /* 이미지 아래 여백 */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* 그림자 효과 추가 */
+}
+
+.category {
+  margin-top: 10px; /* 카테고리 제목과 항목 사이의 여백 */
+}
+
+.sub-category {
+  margin-left: 15px; /* 하위 항목에 여백 추가 */
+  margin-top: 5px; /* 하위 항목과 상위 항목 사이의 여백 */
+}
+ 
+/* .sidebar button {
+  display: block; /* 버튼을 블록 요소로 설정 *\
+  margin: 5px 0; /* 버튼 간 여백 *\
+  padding: 10px; /* 버튼 안쪽 여백 *\
+  border: none; /* 테두리 제거 *\
+  background-color: #4285f4; /* 기본 배경색 *\
+  color: white; /* 글자색 *\
+  cursor: pointer; /* 마우스 포인터 변경 *\
+  border-radius: 3px; /* 모서리 둥글게 *\
+  transition: background-color 0.3s; /* 배경색 전환 효과 *\
+} */
+
+/* .sidebar button:hover {
+  background-color: #0056b3;
+} */
+
+/* .sidebar {
+  position: absolute;
+  left: 0;
+  top: 60px; /* 네비게이션 바 아래에 위치 *\
+  width: 200px;
+  /* background-color: #f4f4f4; *\
+  padding: 15px;
+  border-right: 1px solid #ccc;
+  z-index: 1000; /* 사이드바가 다른 요소 위에 표시되도록 *\
+} */
+
+.main-page {
+  flex: 1;
+  padding: 20px;
+}
+.main-page {
+  text-align: center;
+  padding: 20px;
+}
+.logo-search-container {
+  position: absolute;
+  top: 10%;
+  right: 37%;
+  width: 30%;
+  height: 35%;
+  display: flex;
+  justify-content: center;
+  /* background-color: rgba(240, 240, 240, 0.9); */
+  border-radius: 10px;
+}
+
+.logo-container {
+  position: absolute; /* 절대 위치 */
+  top: 35%; /* 화면 중앙에 배치 */
+  left: 50%; /* 화면 중앙에 배치 */
+  transform: translate(-50%, -50%); /* 중앙 정렬 보정 */
+  max-width: 800px; /* 최대 너비 설정 */
+  border-radius: 10px; /* 모서리 둥글게 */
+  text-align: center; /* 텍스트 중앙 정렬 */
+  margin-top: 20px;
+  background-color: rgba(240, 240, 240, 0.9);
+}
+.logo {
+  width: 300px; /* 로고 너비 조정 */
+  height: auto; /* 비율 유지 */
+  margin-bottom: -80px; /* 아래 여백 추가 */
+  margin-top: -80px;
+}
+
+.main-content {
+  position: relative;
+  /* top: 350px;
+  right: 37%; */
+  /* background-color: rgba(240, 240, 240, 0.9); */
+  border-radius: 10px;
+  top: 60%;
+}
+
+.main-content form {
+  display: flex;
+  height: 70%;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-bar {
+  margin-bottom: 20px;
+}
+
+.search-input {
+  padding: 10px; /* 패딩 */
+  width: 350px; /* 검색창 너비 조정 */
+  margin-right: 10px; /* 오른쪽 여백 */
+  border-radius: 5px; /* 모서리 둥글게 */
+  border: 1px solid #ddd; /* 테두리 */
+  font-size: 16px; /* 글자 크기 조정 */
+  background-color: rgba(240, 240, 240, 0.9);
+}
+
+.search-button {
+  padding: 10px 20px; /* 버튼 패딩 */
+  border-radius: 5px; /* 모서리 둥글게 */
+  border: none; /* 테두리 없애기 */
+  background-color: #4285f4; /* 버튼 배경색 */
+  color: white; /* 텍스트 색상 */
+  cursor: pointer; /* 마우스 커서 포인터로 변경 */
+  height: 40px;
+}
+.search-button:hover {
+  background-color: #0056b3;
+}
+
+.sidebar {
+  position: absolute;
+  left: 0;
+  top: 60px; /* 네비게이션 바 아래에 위치 */
+  width: 200px;
+  /* background-color: #f4f4f4; */
+  padding: 15px;
+  /* border-right: 1px solid #ccc; */
+  z-index: 1000; /* 사이드바가 다른 요소 위에 표시되도록 */
+}
+
+.filter-tags {
+  margin-top: 10px; /* 태그와 제목 사이의 여백 */
+}
+
+.filter-tag {
+  display: inline-block;
+  margin: 5px;
+  padding: 8px 12px;
+  border-radius: 5px;
+  background-color: #e0e0e0;
+  cursor: pointer; /* 클릭 가능하게 커서 변경 */
+  transition: background-color 0.3s; /* 부드러운 배경색 변경 효과 */
+}
+
+.filter-tag.active {
+  font-weight: bold; /* 활성화된 태그의 텍스트를 진하게 */
+  background-color: #4285f4; /* 활성화된 태그의 배경색 */
+  color: white; /* 활성화된 태그의 텍스트 색상 */
+}
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; /* 수직 중앙 정렬 */
+  height: 100vh; /* 전체 화면 높이 */
+  background-color: #f5f5f5; /* 배경색 */
+  position: relative; /* 자식 요소의 절대 위치 지정 가능 */
+}
+
+.login-page {
+  position: absolute; /* 절대 위치 */
+  top: 50%; /* 화면 중앙에 배치 */
+  left: 50%; /* 화면 중앙에 배치 */
+  transform: translate(-50%, -50%); /* 중앙 정렬 보정 */
+  max-width: 300px; /* 최대 너비 설정 */
+  width: 100%; /* 전체 너비를 차지하지만 최대 300px로 제한 */
+  padding: 40px; /* 내부 여백 */
+  background-color: white; /* 흰색 배경 */
+  border-radius: 10px; /* 모서리 둥글게 */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* 그림자 효과 */
+  text-align: center; /* 텍스트 중앙 정렬 */
+}
+
+.login-page h1 {
+  font-size: 24px; /* 제목 크기 */
+  margin-bottom: 20px; /* 제목 아래 여백 */
+}
+
+.inputWrap {
+  display: flex;
+  flex-direction: column;
+}
+
+.inputTitle {
+  font-size: 14px; /* 입력란 제목 글자 크기 */
+  margin-top: 20px; /* 위쪽 여백 */
+}
+
+.input {
+  padding: 10px;
+  margin-bottom: 15px; /* 입력란 간격 */
+  border: 2px solid #ccc; /* 테두리 색상 */
+  border-radius: 4px; /* 모서리 둥글게 */
+  font-size: 16px; /* 글자 크기 */
+}
+
+.bottomButton {
+  padding: 10px;
+  background-color: #1abc9c; /* 버튼 색상 */
+  color: white; /* 글자 색상 */
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 100%; /* 버튼 너비 100% */
+  font-size: 16px; /* 버튼 글자 크기 */
+}
+
+.bottomButton:hover {
+  background-color: #16a085; /* 버튼 호버 색상 */
+}
+
+.errorMessageWrap {
+  color: red; /* 오류 메시지 색상 */
+  font-size: 12px; /* 글자 크기 */
+  margin-top: 5px; /* 위쪽 여백 */
+}
+
+.link-section {
+  margin-top: 20px; /* 아래 여백 추가 */
+}
+
+.link-section a {
+  color: #1abc9c; /* 링크 색상 */
+  text-decoration: none; /* 밑줄 제거 */
+}
+
+.link-section a:hover {
+  text-decoration: underline; /* 호버 시 밑줄 */
+}
+
+.signup-page {
+  position: absolute; /* 절대 위치 */
+  top: 50%; /* 화면 중앙 */
+  left: 50%; /* 화면 중앙 */
+  transform: translate(-50%, -50%); /* 중앙 정렬 보정 */
+  padding: 20px;
+  max-width: 400px; /* 최대 너비 설정 */
+  width: 100%; /* 전체 너비를 차지하지만 최대 400px로 제한 */
+  text-align: center; /* 중앙 정렬 */
+  background-color: white; /* 흰색 배경 */
+  border-radius: 10px; /* 모서리 둥글게 */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* 그림자 효과 */
+}
+
+.signup-page h1 {
+  font-size: 24px; /* 제목 크기 설정 */
+  margin-bottom: 30px; /* 제목 아래 여백 */
+}
+
+.inputWrap {
+  display: flex;
+  flex-direction: column; /* 세로 정렬 */
+}
+
+.inputWrap input {
+  padding: 10px;
+  margin-bottom: 20px; /* 입력란 간격 */
+  border: 1px solid #ccc; /* 테두리 색상 */
+  border-radius: 4px; /* 모서리 둥글게 */
+}
+
+.signup-button {
+  padding: 10px;
+  background-color: #1abc9c; /* 버튼 색상 */
+  color: white; /* 글자 색상 */
+  border: none; /* 테두리 제거 */
+  border-radius: 7px; /* 모서리 둥글게 */
+  cursor: pointer; /* 마우스 포인터 변경 */
+  width: 100%; /* 버튼 너비 100% */
+}
+
+.signup-button:disabled {
+  background-color: #ccc; /* 비활성화된 버튼 색상 */
+  cursor: not-allowed; /* 비활성화 상태 커서 */
+}
+
+.error-message {
+  color: red; /* 텍스트 색상을 빨간색으로 설정 */
+  font-size: 14px; /* 글자 크기 설정 */
+  margin-top: 5px; /* 메시지 위쪽 여백 */
+}
+
+/* .checkbox-button {
+  display: inline-block;
+  cursor: pointer;
+} */
+
+/* .checkbox-button input {
+  display: none; /* 기본 체크박스 숨기기 *\
+} */
+
+/* .checkmark {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: rgb(239, 247, 255); /* 버튼 배경색 *\
+  color: rgb(0, 0, 0); /* 버튼 텍스트 색상 *\
+  border-radius: 5px; /* 모서리 둥글게 *\
+  border: 1px solid #ddd;
+  transition: background-color 0.3s;
+} */
+
+/* .checkbox-button input:checked + .checkmark {
+  background-color: rgb(193, 193, 255); /* 체크된 상태의 배경색 *\
+} */
+
+/* .checkmark:hover {
+  background-color: rgb(193, 193, 255); /* 호버 시 색상 *\
+  cursor: pointer;
+} */
+
+/* .attraction-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+} */
+
+.attraction-item {
+  margin: 10px;
+  text-align: center;
+}
+
+/* .pagination button {
+  margin: 1px;
+  padding: 5px;
+  cursor: pointer;
+} */

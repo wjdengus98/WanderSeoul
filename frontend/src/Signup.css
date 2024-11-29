@@ -1,0 +1,48 @@
+.signup-page {
+  padding: 20px;
+  max-width: 400px;
+  margin: auto;
+  text-align: center; /* 중앙 정렬 */
+}
+.logo {
+  width: 300px; /* 로고 너비 조정 */
+  height: auto; /* 비율 유지 */
+  margin-bottom: -80px; /* 아래 여백 추가 */
+  margin-top: -80px;
+}
+.signup-page h1 {
+  font-size: 24px; /* 제목 크기 설정 */
+  margin-bottom: 30px; /* 제목 아래 여백 */
+}
+
+.inputWrap {
+  display: flex;
+  flex-direction: column; /* 세로 정렬 */
+}
+
+.inputWrap input {
+  padding: 10px;
+  margin-bottom: 20px; /* 입력란 간격 */
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.signup-button {
+  padding: 10px;
+  background-color: #1abc9c; /* 버튼 색상 */
+  color: white; /* 글자 색상 */
+  border: none;
+  border-radius: 7px;
+  cursor: pointer;
+  width: 100%; /* 버튼 너비 100% */
+}
+
+.signup-button:disabled {
+  background-color: #ccc; /* 비활성화된 버튼 색상 */
+  cursor: allowed; /* 비활성화 상태 커서 */
+}
+.error-message {
+  color: red; /* 텍스트 색상을 빨간색으로 설정 */
+  font-size: 14px; /* 글자 크기 설정 (선택 사항) */
+  margin-top: 5px; /* 메시지 위쪽 여백 */
+}

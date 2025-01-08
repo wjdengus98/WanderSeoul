@@ -1,0 +1,30 @@
+# 추천시스템 수행하는 방법
+
+1. GitHub 에서 clonning
+   - https://github.com/wjdengus98/WanderSeoul.git
+
+2. anaconda 환경 만들기
+   - python 3.12 버전으로 환경 만든 후 activate
+   # pip install -r requirements_new.txt 로 환경 설정 해보기 바람
+
+3. DB 관련
+   - mysql workbench 또는 DBeaver 에서 WanderSeoul\일괄작업용\recommend_table_및_data_작업.sql 에 있는 sql 을 하나하나 실행.
+     - place_info_temp, place_review_temp 생성 후
+       - WanderSeoul\일괄작업용\temp_data_save.ipynb 하나하나 실행
+         - 설치 안된거 있음 설치해가면서.
+     - 그리고 나머지 sql 실행.
+
+4. backend 서버 실행 시키기
+   - pip install fastapi uvicorn 해서 fastapi 랑 uvicorn 설치하기
+   - backend 폴더 위치에서 uvicorn app.main:app --reload 실행해서 서버 올리기
+     - 서버 올려보면 설치 안된 것들이 많음 - 하나하나 추가 설치
+	   - fastapi_pagination, databases, aiomysql, jwt,
+	     gensim
+		 - 설치 시 오류 발생
+		   - Visual Studio Build Tool 설치 - C++ 어쩌구 설치
+		 sklearn, sentence_transformers, 
+
+5. frontend 서버 실행 시키기
+   - Node.js 가 설치되어 있어야 함.
+   - frontend 폴더 위치에서 npm install react react-dom 해서 설치
+   - frontend 폴더 위치에서 npm start 실행
